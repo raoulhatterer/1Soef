@@ -1,0 +1,98 @@
+<style type="text/css">
+<!--
+body {
+    font-family: Arial, Geneva, sans-serif, Verdana;
+    counter-reset: section;  /* Nous initialisons le compteur section */
+}
+h1.cours:before {
+    counter-increment: section;  /* Ajoute 1 au compteur section */
+    content:  counter(section) ". ";  /* Affiche notre compteur */
+}
+h1.cours{
+    color: #2280A8; font-family: Verdana, Arial, sans-serif;
+    background-image:linear-gradient(#E4EFFF, white);
+    padding: 2%;
+}
+.competencesAttendues h1{
+    /* compétences attendues*/
+    background: #2280A8;
+    color: #FFFFFF;
+    padding:5pt;
+}
+.cours {
+    background: : #F5F5F5;
+    margin : 0 3%;
+    padding : 3%;
+    border-width : thin;
+    text-align:  justify
+}
+.icone {
+    float: left;
+    width: 48px;
+    height: auto;
+    margin: 5px 10px 5px -55px;
+}
+.rappel{
+    background-color:#E4EFFF;
+    border:1px solid #9FC6FF;
+    padding:5px;
+    border-radius:10px ;
+}
+.competencesAttendues{
+    margin: 0pt 20pt 0pt 20pt;
+    padding: 2%;
+    background-color:#FFFFFF;
+    border:2px solid #9FC6FF;
+    border-radius:10px ;
+}
+
+.exemple:before{
+    content:"Exemple renouvelable :";
+}
+.exemple {
+    margin: 0% 10%;
+    padding: 2%;
+    background-color: #FFCC66;
+    color: #c52d2d;
+    border:1px solid #9FC6FF;
+    border-radius:15px ;
+
+}
+
+
+.formuleMathematique{
+    background-color:#E4EFFF;
+    border:1px solid #9FC6FF;
+    padding:20px 10px 20px 10px ;
+    border-radius:3px ;
+}
+
+/* encadrer les liaisons chimiques par des espaces
+   utiliser le tiret long (–) pour les liaisons simples
+   et le signe égal (=) pour les liaisons doubles.
+   Sous linux rajouter ce qui suit dans le .emacs
+   ;; 2 keys for "–" (osX like)
+   (global-set-key (kbd "M--") (lambda () (interactive) (insert "–")))
+   (global-set-key (kbd "M-_") (lambda () (interactive) (insert "–")))
+ */
+.formuleChimique{
+    background-color:#E4EFFF;
+    font-weight: bold;
+    word-spacing:-2px;
+    white-space:nowrap;
+    padding:2px;
+}
+
+
+p.mark{
+    background-color: yellow;
+    border:1px solid #9FC6FF;
+    padding:5px;
+    border-radius:3px ;
+}
+li.mark{
+    background-color: yellow;
+    padding:3px;
+}
+-->
+</style>
