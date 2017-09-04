@@ -1,8 +1,6 @@
 \comment{Vision et image  à travers une lentille convergente}
 \fold{CA2} {Compétences attendues}
 
-
-
 <div class="cours">
     <img src="\filedir/book.jpg" class="icone"/>
     <p>Correspond au chapitre ??  page ?? du livre</p>
@@ -11,8 +9,7 @@
 <h1 class="cours">Caractéristiques d’une lentille convergente</h1>
 <div class="cours">
     <img src="\filedir/TP.png" class="icone"/>
-    <p>(Activité)
-    </p>
+    <p>(Activité)</p>
 
     <div class="wimscenter">
 	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
@@ -26,12 +23,9 @@
 		   width="800"
 		   height="600"></embed>
 	</object>
-
     </div>
 
-
     <h2>Définition</h2>
-
     Une lentille convergente est un objet transparent et homogène (en verre, en plastique…) plus épais en son centre qu’en ses bords.
     Elle est représentée par :
     <ul>
@@ -42,7 +36,6 @@
     Lentille convergente réelle		           Modélisation lentille mince convergente
 
     <h2>Propriétés et construction  </h2>
-
     \def{integer OF=-125}
     \def{integer OFprime=-\OF}
     \def{integer OA=-300}
@@ -81,21 +74,18 @@
     <!-- rayon passant par le centre -->
     arrow \OA,\AB,\OA/2,\AB/2,10,blue 
     segment \OA,\AB,0,0,blue 
-    segment 0,0,2*\OAprime,2*\AprimeBprime,blue <!-- step>2 -->
+    segment 0,0,2*\OAprime,2*\AprimeBprime,blue 
     <!-- rayon partant parallèle à l'axe optique -->
-    arrow \OA,\AB,\OA/2,\AB,10,red  <!-- step>3 -->
-    segment \OA,\AB,0,\AB,red <!-- step>3 -->
-    segment 0,\AB,3*\OFprime,-2*\AB,red <!-- step>4 -->
+    arrow \OA,\AB,\OA/2,\AB,10,red  
+    segment \OA,\AB,0,\AB,red 
+    segment 0,\AB,3*\OFprime,-2*\AB,red 
     <!-- rayon partant vers le foyer objet -->
-    arrow \OA,\AB,(\OA+\OF)/2,\AB/2,10,green <!-- step>5 -->
-    segment \OA,\AB,0,\AprimeBprime,green <!-- step>5 -->
-    segment 0,\AprimeBprime,2*\OAprime,\AprimeBprime,green <!-- step>6 -->
+    arrow \OA,\AB,(\OA+\OF)/2,\AB/2,10,green 
+    segment \OA,\AB,0,\AprimeBprime,green 
+    segment 0,\AprimeBprime,2*\OAprime,\AprimeBprime,green 
     }
 
     \canvasdraw{800,260}{\schemaLentille}
-
-
-
 
     <img src="\filedir/TP.png" alt="description de l'image"/>
 
@@ -107,17 +97,10 @@
 		<li class="mark">Le  rayon lumineux  incident parallèle à l’axe optique :  lorsqu'il ressort de la lentille, il converge en un point de l’axe appelé Foyer focal image noté F’ </li>
 		<li class="mark">Le rayon lumineux passant par un point de l’axe appelé Foyer focal objet noté F : il ressort de la lentille parallèle à l’axe optique. </li>
 	    </ol>
-
 	</li>
 	<li>Tous les rayons issus du point objet B convergent en un point unique B’ image de B à travers la lentille. Si le point B' a été déterminé on est donc en mesure de tracer le trajet de n'importe quel rayon issu de B.  Tout rayon quelconque issu du point objet B passe par le point image B’. </li>
 	<li>Si AB est perpendiculaire à l’axe optique alors son image A’B’ est aussi perpendiculaire à l’axe optique.</li>
     </ul>
-
-
-
-
-
-
 
     <p>
 	Remarques :
@@ -125,10 +108,8 @@
 	    <li> F et F’ sont symétriques par rapport à O.</li>
             <li>le tracé de 2 rayons lumineux suffit pour trouver l’image du point B</li>
             <li>L’image d’un objet situé très loin de la lentille (considéré comme étant à l’infini) se forme sur le plan focal image (plan perpendiculaire à Δ passant par F’) </li>
-            <li>L’axe optique étant orienté on introduit un outil mathématique : la mesure algébrique (repérée par une barre horizontale, ex : \(\overline{OF'}\) = mesure algébrique de la longueur entre O et F’ )
-	    </li>
-	    <li>La distance entre O et F’ est une caractéristique de la lentille étudiée : on l’appelle la distance focale de la lentille et on la note f’ :       \(f'=\overline{OF'}=-\overline{OF}\)   (en mètres)    avec \(\overline{OF'}>0\) et \(\overline{OF}<0\)
-	    </li>
+            <li>L’axe optique étant orienté on introduit un outil mathématique : la mesure algébrique (repérée par une barre horizontale, ex : \(\overline{OF'}\) = mesure algébrique de la longueur entre O et F’ )</li>
+	    <li>La distance entre O et F’ est une caractéristique de la lentille étudiée : on l’appelle la distance focale de la lentille et on la note f’ :       \(f'=\overline{OF'}=-\overline{OF}\)   (en mètres)    avec \(\overline{OF'}>0\) et \(\overline{OF}<0\)</li>
 	</ul>
     </p>
 
@@ -139,12 +120,12 @@
 	</center>
 	(V en dioptries δ si f' exprimé en mètres)
     </p>
-
+</div>
     <h1 class="cours">Caractéristiques d’une image à travers une lentille convergente </h1>
     <h2>Le grandissement</h2>
     Le grandissement  est le rapport de la grandeur (A'B') ̅de l’image sur la grandeur de l’objet(AB) ̅ :
 
-</div>
+
 Sa valeur renseigne sur la taille de l’image. Son signe renseigne sur son sens.
 Si  > 0, image …………………..(même sens que l’objet);	   Si  <0  , image …………………………….. (sens opposé de l’objet)
 Si ll >1 : image plus ………………… que l’objet ;	             Si ll <1  image plus …………………………….. que l’objet 
