@@ -71,7 +71,7 @@
       Si plusieurs taches apparaissent, les unes au-dessus des autres, le liquide contient plusieurs espèces chimiques différentes, si une seule tache apparaît, il contient une seule espèce chimique (corps pur).
     </p>
     Exemple :
-    Les filtrats obtenus en TP contiennent de la matière colorée. Le chromatogramme obtenu montre que les plantes vertes contiennent plusieurs espèces chimiques colorées (plusieurs taches observées) et les carottes une seule (une seule tache observée).}
+    Les filtrats obtenus en TP contiennent de la matière colorée. Le chromatogramme obtenu montre que le paprika contient plusieurs espèces chimiques colorées (plusieurs taches observées) et les carottes une seule (une seule tache observée).}
   </div>
 </div>
 
@@ -211,7 +211,7 @@ Exercices :  QCM partie 1 p 71 <br/>
 7,8,12,15,17, <br/>
 18,23  p74,75,76,77 <br/>
 
-Exercice 1:
+\comment{Exercice 1:
 Le paprika contient principalement 3 espèces chimiques colorées. Deux spatules de paprika, 20ml de dichlorométhane et quelques grains de pierre ponces sont introduits dans un ballon. Après 30 minutes de chauffage à reflux, la solution est filtrée.
 Schématiser le chauffage à reflux et expliquer son fonctionnement. Quel est le rôle de la pierre ponce ?
 A quoi sert le dichlorométhane ?
@@ -230,4 +230,4 @@ La curcumine est la principale espèce chimique colorée du curcuma. Une fois is
 3-A quoi sert la filtration ?
 4-Proposer une méthode afin de vérifier que la curcumine est une espèce chimique pure.
 5-Comment récupérer uniquement la curcumine ?
-1ère S, thème 1 : les couleurs
+1ère S, thème 1 : les couleurs}
