@@ -41,8 +41,8 @@
     \def{integer OA=-300}
     \def{integer AB=50}
     \def{real OAprime= 1/(1/\OA + 1/\OFprime)}
-    \def{real gamma= \OAprime / \OA}
-    \def{real AprimeBprime=\gamma*\AB }
+    \def{real gammaL= \OAprime / \OA}
+    \def{real AprimeBprime=\gammaL*\AB }
 
     \def{text schemaLentille =
     xrange -400,400
@@ -97,7 +97,6 @@
 		<li class="mark">Le  rayon lumineux  incident parallèle à l’axe optique :  lorsqu'il ressort de la lentille, il converge en un point de l’axe appelé Foyer focal image noté F’ </li>
 		<li class="mark">Le rayon lumineux passant par un point de l’axe appelé Foyer focal objet noté F : il ressort de la lentille parallèle à l’axe optique. </li>
 	    </ol>
-	</li>
 	<li>Tous les rayons issus du point objet B convergent en un point unique B’ image de B à travers la lentille. Si le point B' a été déterminé on est donc en mesure de tracer le trajet de n'importe quel rayon issu de B.  Tout rayon quelconque issu du point objet B passe par le point image B’. </li>
 	<li>Si AB est perpendiculaire à l’axe optique alors son image A’B’ est aussi perpendiculaire à l’axe optique.</li>
     </ul>
@@ -121,71 +120,101 @@
 	(V en dioptries δ si f' exprimé en mètres)
     </p>
 </div>
-    <h1 class="cours">Caractéristiques d’une image à travers une lentille convergente </h1>
-    <h2>Le grandissement</h2>
-    Le grandissement  est le rapport de la grandeur (A'B') ̅de l’image sur la grandeur de l’objet(AB) ̅ :
+<h1 class="cours">Caractéristiques d’une image à travers une lentille convergente </h1>
 
 
-Sa valeur renseigne sur la taille de l’image. Son signe renseigne sur son sens.
-Si  > 0, image …………………..(même sens que l’objet);	   Si  <0  , image …………………………….. (sens opposé de l’objet)
-Si ll >1 : image plus ………………… que l’objet ;	             Si ll <1  image plus …………………………….. que l’objet 
-valeur absolue :l …l  = valeur toujours positive
-
-Relation de conjugaison (TP 4)
-Connaissant la position d’un objet (OA) ̅ , on peut déterminer la position de son image( OA') ̅ par la relation de conjugaison suivante 
-
-
-ATTENTION : Pour ces deux relations, les grandeurs sont algébriques.
-
-III-Fonctionnement comparé de l’œil et de l’appareil photo (TP 5)
-1-Modélisation de l’œil et de l’appareil photo
-L’œil et l’appareil photographique sont des systèmes convergents qui forment une image réelle (ou nette), l’un sur la rétine, l’autre sur un capteur.
-
-Pour l’œil (Activité 1, I) 
-L’œil peut-être modélisé par un modèle qui ne tient compte que de ses fonctionnements optiques et que l’on appelle  modèle réduit de l’œil. Il est constitué par :
- Un diaphragme qui joue le rôle de l’ensemble pupille-iris : limite la lumière pénétrant dans l’oeil
-Une lentille convergente qui joue le rôle du cristallin : milieu transparent qui réfracte les rayons de lumière
-Un écran qui joue le rôle de la rétine : endroit où se forment les images nettes
-
-b) Pour l’appareil photo 
-Un appareil photo est constitué d’un …………………………………….qui régule l’entrée de lumière pénétrant dans l’appareil photo, d’un objectif (une ………………………………………………..), et de capteurs jouant le rôle …………………………………
-Voir Doc 3 p17
-
-Conclusion : l’œil et l’appareil photo peuvent être modélisé par les mêmes éléments, pour autant ont –ils le même fonctionnement ?
+<div class="cours">
+  <h2>Le grandissement</h2>
+  <p>
+    Le grandissement \(\gamma{}\) est le rapport de la taille \(\overline{A'B'}\)de l’image sur la taille \(\overline{AB}\) de l’objet:
+    <center>
+      <span class="formuleMathematique">\(\gamma{}=\frac{\overline{A'B'}}{\overline{AB}}\)</span>
+    </center>
+  </p>
 
 
+<p>
+  Sa valeur renseigne sur la taille de l’image :
+  <ul>
+    <li>Si \(\left|\gamma{}\right|>1\) l'image est plus grande que l’objet ;</li>
+<li>Si \(\left|\gamma{}\right|<1\) l'image est plus petite que l’objet.</li>
+				 </ul>
+valeur absolue :\(\left|...\right|\)  = valeur toujours positive
+</p>
 
-2-Accomodation et mise au point
-Cas de l’œil : accommodation
-Rappel : dans un œil, la distance cristallin – rétine ne peut être modifiée ( distance lentille – image fixe).
-L’accommodation de l’œil est possible grâce à des muscles qui déforment le cristallin et augmente sa courbure. L’oeil modifie donc la ………………………………………….. de son cristallin.
+<p>
+  Son signe renseigne sur son sens :
+  <ul>
+    <li>Si  \(\gamma{}>0\), l'image est droite (même sens que l’objet) ;</li>
+<li>Si \(\gamma{}<0\), l'image est renversée (sens opposé à l’objet).</li>
+		       </ul>
+</p>
 
 
 
-Accommodation de l’œil 
+<h2>Relation de conjugaison</h2>
+<img src="\filedir/TP.png" class="icone"/>
+<p>(TP 4)</p>
+
+<p>
+  Connaissant la position \(\overline{OA}\) d’un objet, on peut déterminer la position \(\overline{OA'}\) de son image par la relation de conjugaison suivante :
+  <center>
+    <span class="formuleMathematique">
+      \(\frac{1}{\overline{OA'}}=\frac{1}{\overline{OA}}+\frac{1}{\overline{OF'}}\)
+    </span>
+  </center>
+</p>
+
+<p>
+  <mark>
+    ATTENTION : Pour ces deux relations, les grandeurs sont algébriques.
+    </mark>
+</p>
+</div>
+
+<h1 class="cours">Fonctionnement comparé de l’œil et de l’appareil photo</h1>
+<div class="cours">
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP 5)</p>
+
+  <h2>Modélisation de l’œil et de l’appareil photo</h2>
+  <p>
+    L’œil et l’appareil photographique sont des systèmes convergents qui forment une image <mark>réelle</mark> (ou nette), l’un sur la rétine, l’autre sur un capteur.
+  </p>
+
+  <h3>Pour l’œil (Activité) </h3>
+  <p>
+    L’œil peut-être modélisé par un modèle qui ne tient compte que de ses fonctionnements optiques et que l’on appelle <mark>modèle réduit de l’œil.</mark>  Il est constitué par :
+    <ul>
+      <li>Un <mark>diaphragme</mark> qui joue le rôle de l’ensemble pupille-iris : limite la lumière pénétrant dans l’oeil</li>
+      <li>Une <mark>lentille convergente</mark> qui joue le rôle du cristallin : milieu transparent qui réfracte les rayons de lumière</li>
+      <li>Un <mark>écran</mark> qui joue le rôle de la rétine : endroit où se forment les images nettes</li>
+    </ul>
+  </p>
+  <h3>Pour l’appareil photo</h3>
+  <p>
+    Un appareil photo est constitué d’un <mark>diaphragme</mark> qui régule l’entrée de lumière pénétrant dans l’appareil photo, d’un objectif (une <mark>lentille convergente</mark>), et de capteurs jouant le rôle <mark>d'écran.</mark>
+    Voir Doc 3 p17
+  </p>
+  Conclusion : l’œil et l’appareil photo peuvent être modélisé par les mêmes éléments, pour autant ont–ils le même fonctionnement ?
 
 
-
-
-
-
-
-L’image d’un objet observé à grande distance (considéré à l’infini) se trouve au foyer image F’ du cristallin ; c’est là que se trouve la rétine.  Si l’objet observé se rapproche de l’œil, la distance cristallin-rétine ne pouvant changer, c’est la distance focale du cristallin qui doit diminuer
-
+  <h2>Accommodation et mise au point</h2>
+  <h3>Cas de l’œil : accommodation</h3>
+  <p>
+    Rappel : dans un œil, la distance cristallin – rétine ne peut être modifiée ( distance lentille – image fixe).
+  </p>
+  <p>
+    L’accommodation de l’œil est possible grâce à des muscles qui déforment le cristallin et augmente sa courbure. L’oeil modifie donc la <mark>vergence</mark> de son cristallin.
+  </p>
+  <p>
+    L’image d’un objet observé à grande distance (considéré à l’infini) se trouve au foyer image \(F'\) du cristallin ; c’est là que se trouve la rétine.  Si l’objet observé se rapproche de l’œil, la distance cristallin-rétine ne pouvant changer, c’est la distance focale du cristallin qui doit diminuer
+  </p>
 Cas de l’appareil photographique :mise au point
 
 La vergence de la lentille est constante (c’est l’objectif). La netteté de la photographie est obtenue en déplaçant l’écran (la distance lentille-écran OA’ a donc varié). C’est par ce déplacement que l’image se forme sur le capteur. On parle de mise au point.
 
-
-
-
 mise au point de l’appareil photo
-
-
-
-
-
-
 
 L’image d’un objet photographié à grande distance (considéré à l’infini) se trouve dans le plan focal image de l’objectif ; c’est là que doit être le capteur. Si l’objet photographié se rapproche, la distance objectif-capteur doit être plus …………………………….. .
 
@@ -210,6 +239,7 @@ Après la fin : autoévaluer 3 (1,4,6,7) + 4 p21 + 15,23 p25/26
 
 http://www.edumedia-sciences.com/fr/a295-lentille-convergente
 
+</div>
 
 Remarque Image réelle ou virtuelle
 L’image d’un objet est dite réelle si elle est formée après. la lentille et peut être observée sur écran (l’objet est à une distance supérieure à la distance focale)
@@ -219,34 +249,6 @@ avant la lentille, elle  peut alors être
 observée à travers la lentille (effet loupe) mais
 pas sur un écran (l’objet est à une distance
 inférieure à la distance focale).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Œil & appareil photo :
 Similitudes :
