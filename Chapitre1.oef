@@ -34,7 +34,7 @@
 <div class="cours">
   <img src="\filedir/TP.png" class="icone"/>
   <p>Observer  (TP 1 + fiche méthode 1)</p>
-  <h2>Extraction directe</h2>
+  <h2 class="cours">Extraction directe</h2>
   <p> Depuis la préhistoire, l'homme extrait des espèces colorées à partir de plantes ou d’insectes.
   </p>
   <p>Protocole :
@@ -46,7 +46,7 @@
   </p>
   <p>Choix du solvant : On choisit toujours le solvant dans lequel l’espèce chimique à extraire est <mark>soluble</mark>.
   </p>
-  <h2>Extraction liquide /liquide</h2>
+  <h2 class="cours">Extraction liquide /liquide</h2>
   <p> Lorsque l’espèce chimique à extraire est contenue dans une solution aqueuse on choisira un solvant organique en
     fonction de plusieurs critères :
     <ul>
@@ -114,7 +114,7 @@
   </p>
   <p> Une synthèse est caractérisée par son <mark>rendement</mark> noté ρ :
     <center>
-      <span class="formuleMathematique">\(ρ= \frac {n(obtenu)}{n(maximal)}\)
+      <span class="formulemathematique">\(ρ= \frac {n(obtenu)}{n(maximal)}\)
       </span>
     </center>
   </p>
@@ -129,7 +129,7 @@
     <br/>
     Comprendre (Activité préparatoire 1)
   </p>
-  <h2>Système conjugué</h2>
+  <h2 class="cours">Système conjugué</h2>
   <p>La chimie organique est la chimie des composés naturels et synthétiques contenant principalement les éléments <mark>carbone C</mark> et <mark>hydrogène H</mark>.
   </p>
   <p>L’enchaînement des atomes de carbone constituant une molécule organique forme le <mark>squelette carboné</mark> ou <mark>chaîne carbonée</mark> de la molécule.
@@ -172,18 +172,18 @@
   </p>
 
   <p>    Certains groupes sont responsables de la couleur d’une molécule organique : ces groupes sont appelés des groupes <mark>chromophores</mark> (c’est le cas des doubles liaisons conjuguées
-    <span class="formuleChimique">C = C – C = C</span>
+    <span class="formulechimique">C = C – C = C</span>
     , mais aussi
-    <span class="formuleChimique">– C = N –</span> ;
-    <span class="formuleChimique">– N = N –</span>;
-    <span class="formuleChimique">– C = C – C = O</span>.
+    <span class="formulechimique">– C = N –</span> ;
+    <span class="formulechimique">– N = N –</span>;
+    <span class="formulechimique">– C = C – C = O</span>.
 
     On rencontre également dans les molécules organiques des <mark>groupes caractéristiques</mark> qui peuvent modifier la
     couleur, on les appelle les groupes <mark>auxochromes</mark> (
-    <span class="formuleChimique">– OH</span>,
-    <span class="formuleChimique">O – CH<sub>3</sub></span>,
-    <span class="formuleChimique">–	NH<sub>2</sub></span>,
-    <span class="formuleChimique">– Br</span>)
+    <span class="formulechimique">– OH</span>,
+    <span class="formulechimique">O – CH<sub>3</sub></span>,
+    <span class="formulechimique">–	NH<sub>2</sub></span>,
+    <span class="formulechimique">– Br</span>)
   </p>
 
 
@@ -192,13 +192,13 @@
   <p class="mark">Si la molécule organique possède un système conjugué de moins de 7 doubles liaisons, la présence d’un groupe caractéristique (ou d’un cycle avec doubles liaisons) peut colorer le matériau.
   </p>
 
-  <h2>Formule topologique</h2>
+  <h2 class="cours">Formule topologique</h2>
   <p>    <img src="\filedir/book.jpg" class="icone"/><br/>
     (voir p361)
   </p>
   <p>    La chaîne carbonée est représentée par une ligne brisée (succession de zig et de zag). À chaque extrémité d’une    ligne brisée se trouve un atome de carbone (non représenté). Aucun atome d’hydrogène lié aux atomes de carbone n’est représenté.
   </p>
-  <p>Tous les atomes des groupes caractéristiques sont représentés (y compris les <span class="formuleChimique">H</span> s’il y en a).
+  <p>Tous les atomes des groupes caractéristiques sont représentés (y compris les <span class="formulechimique">H</span> s’il y en a).
   </p>
 
   <p>    <img src="\filedir/book.jpg" class="icone"/><br/>

@@ -1,0 +1,92 @@
+\comment{CH 3 : Géométrie des molécules et vision}
+\fold{CA3}{Compétences attendues}{}
+<div class="cours">
+  <img src="\filedir/book.jpg" class="icone"/>
+  <p>Correspond au chapitre 6  page 95 du livre</p>
+</div>
+
+  <h1 class="cours">Liaisons covalentes</h1>
+<div class="cours">
+    <img src="\filedir/TP.png" class="icone"/>
+    <p>(TP6)</p>
+
+    <p>
+      Les atomes se lient entre eux en mettant en commun des électrons de leur couche externe pour former une liaison
+      covalente et satisfaire la <mark>règle du duet et de l’octet.</mark>
+    </p>
+    <ul>
+     
+      <li><mark>Liaison covalente simple</mark> : deux atomes mettent en commun 1 électron chacun. La liaison est donc composée de 2 électrons qui appartiennent à chaque atome de la liaison.
+
+	<p>\fold{}{Exemple : la molécule de dihydrogène}{La molécule de dihydrogène : <span class="formuleChimique">H–H</span> }</p></li>
+      <li><mark>Liaison covalente double</mark> : 2 atomes atomes mettent en commun 2 électrons chacun.
+	<p>\fold{}{Exemple : la molécule de dioxygène}{La molécule de dioxygène : <span class="formuleChimique">O=O</span> }</p></li>
+      <li><mark>Liaison covalente triple</mark> : 2 atomes mettent en commun 3 électrons chacun.
+	<p>\fold{}{Exemple : la molécule de diazote}{La molécule de diazote : <span class="formuleChimique">N≡N</span> }</p></li>
+    </ul>
+    
+    <h1 class="cours">Représentation de Lewis</h1>
+    (TP 6)
+C’est une représentation dans laquelle apparaissent toutes les liaisons covalentes (ou doublet liant) entre les
+atomes et tous les doublets non liants (électrons restant sur la couche externe et qui ne participent pas à une
+liaison).
+	Atomes	courants	:		d’après	les	règles	du	duet	et	de	l’octet,	on	aura	toujours	pour	l’atome	de	:	
+	
+Structure	électronique	 Structure	du	gaz	noble	
+Liaison	covalente	 Doublet	non	liant	
+carbone	C				(	Z=	6)	 	 	 	 	
+azote	N								(	Z=	7)	 	 	 	 	
+oxygène	O				(	Z=	8)	 	 	 	 	
+hydrogène	H	(	Z=	1)	 	 	 	 	
+III-Géométrie des molécules (TP 6)
+Dans la nature les molécules ne sont pas planes comme le prévoit Lewis. Elles ont une structure en 3 dimensions
+La plupart des atomes obéissant à la règle de l’octet sont entourés de 8 électrons donc de 4 doublets (liants ou
+non liants). Ces doublets sont constitués d’électrons chargés négativement qui vont se repousser. La molécule
+adopte une géométrie dans laquelle ces doublets électroniques sont le plus éloignés les uns des autres.
+Conclusion : La répartition pour laquelle les 4 doublets sont les plus éloignés, est une répartition ..................................1 ère S, thème 1 : les couleurs
+	
+Exemples :
+ÄMolécules linéaires : CO 2 :
+	
+	
+	
+	
+H 2 :
+	
+	
+	
+Cl 2	 :		
+	
+IV-Isomérie Z et E (TP 7)
+Les molécules présentant une double liaison carbone-carbone, du type R-CH=CH-R’ existent sous la forme de
+deux isomères spatiaux appelés :............................................................
+R	
+L’isomère est dénommé Z si R et R’ sont disposés du .................... côté de la double
+liaison :
+C	
+C	
+H	
+R
+’	
+H	
+L’isomère est dénommé E si R et R’ sont disposés de .............................................. de la double liaison 	:	
+	
+	
+	
+	
+	
+R	
+H	
+C	
+C	
+H	
+Ces deux isomères ont des propriétés chimiques et physiques ................................
+R
+’	
+L’isomérisation photochimique est la transformation d’un isomère Z en son isomère E ( ou vice versa) sous l’effet
+d’un rayonnement lumineux.
+L’isomérisation photochimique d’une double liaison est à l’origine du processus de la vision.
+		
+	Exos	:		6,	9,	10,	12,	14,	17,	21	p107	+	s’auto	évaluer	p103		
+Liaison cov : 6 p106 ; Lewis : 9,10 p 106 ; Géométrie :12,17 p107 ; Isomérie : 14p107 ; Bilan 21p109
+</div>	
