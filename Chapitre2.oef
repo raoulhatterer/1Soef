@@ -26,7 +26,9 @@
     </div>
 
     <h2 class="cours">Définition</h2>
-    Une lentille convergente est un objet transparent et homogène (en verre, en plastique…) plus épais en son centre qu’en ses bords.
+
+    <a target="wims_external" href="http://e.m.c.2.free.fr/lent5.jpg">Une lentille convergente</a> est un objet transparent et homogène (en verre, en plastique…) plus épais en son centre qu’en ses bords.
+
     Elle est représentée par :
     <ul>
 	<li>un segment fléché (les flèches traduisent que les bords sont fins) ;   symbole (L) </li>
@@ -153,7 +155,7 @@ valeur absolue :\(\left|...\right|\)  = valeur toujours positive
 
 <h2 class="cours">Relation de conjugaison</h2>
 <img src="\filedir/TP.png" class="icone"/>
-<p>(TP 4)</p>
+<p>(TP 4 : Obtension d'images nettes à travers une lentille convergente)</p>
 
 <p>
   Connaissant la position \(\overline{OA}\) d’un objet, on peut déterminer la position \(\overline{OA'}\) de son image par la relation de conjugaison suivante :
@@ -169,12 +171,27 @@ valeur absolue :\(\left|...\right|\)  = valeur toujours positive
     ATTENTION : Pour ces deux relations, les grandeurs sont algébriques.
     </mark>
 </p>
+
+<h2 class="cours">Remarque : Image réelle ou virtuelle ?</h2>
+<p>
+  L’image d’un objet est dite <mark>réelle</mark> si elle est formée après la lentille et peut être observée sur écran (l’objet est à une distance supérieure à la distance focale)
+</p>
+<p>
+  Elle est dite <mark>virtuelle</mark> si elle se forme avant la lentille. Elle  peut alors être observée à travers la lentille (effet loupe) mais pas sur un écran (l’objet est à une distance inférieure à la distance focale).
+</p>
+
+
+<img src="\filedir/book.jpg" class="icone"/>
+<p>S'auto-évaluer p21 : 1,2,3(2,3,5) + 11,13,20p25/26</p>
+
 </div>
+
+
 
 <h1 class="cours">Fonctionnement comparé de l’œil et de l’appareil photo</h1>
 <div class="cours">
   <img src="\filedir/TP.png" class="icone"/>
-  <p>(TP 5)</p>
+  <p>(TP 5 : L’œil et l’appareil photographique, de vrais jumeaux ?)</p>
 
   <h2 class="cours">Modélisation de l’œil et de l’appareil photo</h2>
   <p>
@@ -183,7 +200,14 @@ valeur absolue :\(\left|...\right|\)  = valeur toujours positive
 
   <h3>Pour l’œil (Activité) </h3>
   <p>
-    L’œil peut-être modélisé par un modèle qui ne tient compte que de ses fonctionnements optiques et que l’on appelle <mark>modèle réduit de l’œil.</mark>  Il est constitué :
+    L’œil peut-être modélisé par un modèle qui ne tient compte que de ses fonctionnements optiques et que l’on appelle <mark>modèle réduit de l’œil.</mark>
+  </p>
+  
+  <div class="wimscenter">
+    <img src="\filedir/oeil-modele.png" width="500"/>
+  </div>
+  <p>
+    Il est constitué :
     <ul>
       <li>D'un <mark>diaphragme</mark> qui joue le rôle de l’ensemble pupille-iris : limite la lumière pénétrant dans l’oeil</li>
       <li>D'une <mark>lentille convergente</mark> qui joue le rôle du cristallin : milieu transparent qui réfracte les rayons de lumière</li>
@@ -192,14 +216,16 @@ valeur absolue :\(\left|...\right|\)  = valeur toujours positive
   </p>
   <h3>Pour l’appareil photo</h3>
   <p>
+    \fold{}{De quoi un appareil photo est-il constitué?}{
     Un appareil photo est constitué:
     <ul>
       <li>D’un <mark>diaphragme</mark> qui régule l’entrée de lumière pénétrant dans l’appareil photo ;</li>
       <li>D’un objectif (une <mark>lentille convergente</mark>) ;</li>
       <li>De capteurs jouant le rôle <mark>d'écran.</mark></li>
     </ul>
-    
-    Voir Doc 3 p17
+    }
+    <img src="\filedir/book.jpg" class="icone"/>
+    <p>Voir Doc 3 p17</p>
   </p>
   Conclusion : l’œil et l’appareil photo peuvent être modélisé par les mêmes éléments, pour autant ont–ils le même fonctionnement ?
 
@@ -245,25 +271,10 @@ valeur absolue :\(\left|...\right|\)  = valeur toujours positive
     </table>
   </center>
   }
-  <h3>Exercices : s’auto évaluer p21   + 11,13,15, 20,23 p25</h3>
-  <p>
-    <ul>
-      <li>Après 1er cours : autoévaluer 1,2,3(2,3,5) + 11,13,20p25/26</li>
-      <li>Après la fin : autoévaluer 3 (1,4,6,7) + 4 p21 + 15,23 p25/26</li>
-    </ul>
-<a target="wims_external" href="http://www.edumedia-sciences.com/fr/a295-lentille-convergente">Lentille convergente</a>
-</p>
 
 
-<h2>Remarque : Image réelle ou virtuelle ?</h2>
-<p>
-  L’image d’un objet est dite réelle si elle est formée après la lentille et peut être observée sur écran (l’objet est à une distance supérieure à la distance focale)
-</p>
-<p>
-  Elle est dite virtuelle si elle se forme avant la lentille. Elle  peut alors être observée à travers la lentille (effet loupe) mais pas sur un écran (l’objet est à une distance inférieure à la distance focale).
-</p>
 
-<h2>Œil & appareil photo :</h2>
+<h2 class="cours">Similitudes et différences :</h2>
 
 <h3>Similitudes :</h3>
 L’objectif comporte :
@@ -279,6 +290,16 @@ L’objectif comporte :
 </p>
 <p>  
   Contrairement à l’œil, l’appareil photographique dispose d’une durée d’exposition variable, ce qui permet de photographier des objets trop peu lumineux pour que l’œil puisse les voir.
+</p>
+
+<img src="\filedir/book.jpg" class="icone"/>
+<h3>Exercices : s’auto évaluer p21   + 11,13,15, 20,23 p25</h3>
+  <p>
+    <ul>
+      <li>Après 1er cours : autoévaluer 1,2,3(2,3,5) + 11,13,20p25/26</li>
+      <li>Après la fin : autoévaluer 3 (1,4,6,7) + 4 p21 + 15,23 p25/26</li>
+    </ul>
+<a target="wims_external" href="http://www.edumedia-sciences.com/fr/a295-lentille-convergente">Lentille convergente</a>
 </p>
 
 </div>
