@@ -130,7 +130,7 @@
   <p>
     Le grandissement \(\gamma{}\) est le rapport de la taille \(\overline{A'B'}\)de l’image sur la taille \(\overline{AB}\) de l’objet:
     <center>
-      <span class="formulemathematique">\(\gamma{}=\frac{\overline{A'B'}}{\overline{AB}}\)</span>
+      <span class="formulemathematique">\(\gamma{}=\frac{\overline{A'B'}}{\overline{AB}}=\frac{\overline{OA'}}{\overline{OA}}\)</span>
     </center>
   </p>
 

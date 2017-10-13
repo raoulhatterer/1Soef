@@ -18,11 +18,11 @@
      
       <li><mark>Liaison covalente simple</mark> : deux atomes mettent en commun 1 électron chacun. La liaison est donc composée de 2 électrons qui appartiennent à chaque atome de la liaison.
 
-	<p>\fold{}{Exemple : la molécule de dihydrogène}{La molécule de dihydrogène : <span class="formuleChimique">H–H</span> }</p></li>
+	<p>\fold{}{Exemple : la molécule de dihydrogène}{La molécule de dihydrogène : <span class="formulechimique">H–H</span> }</p></li>
       <li><mark>Liaison covalente double</mark> : 2 atomes atomes mettent en commun 2 électrons chacun.
-	<p>\fold{}{Exemple : la molécule de dioxygène}{La molécule de dioxygène : <span class="formuleChimique">O=O</span> }</p></li>
+	<p>\fold{}{Exemple : la molécule de dioxygène}{La molécule de dioxygène : <span class="formulechimique">O=O</span> }</p></li>
       <li><mark>Liaison covalente triple</mark> : 2 atomes mettent en commun 3 électrons chacun.
-	<p>\fold{}{Exemple : la molécule de diazote}{La molécule de diazote : <span class="formuleChimique">N≡N</span> }</p></li>
+	<p>\fold{}{Exemple : la molécule de diazote}{La molécule de diazote : <span class="formulechimique">N≡N</span> }</p></li>
     </ul>
     
     <h1 class="cours">Représentation de Lewis</h1>
