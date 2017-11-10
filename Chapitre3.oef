@@ -5,7 +5,7 @@
   <p>Correspond au chapitre 6  page 95 du livre</p>
 </div>
 
-  <h1 class="cours">Liaisons covalentes</h1>
+<h1 class="cours">Liaisons covalentes</h1>
 <div class="cours">
     <img src="\filedir/TP.png" class="icone"/>
     <p>(TP6)</p>
@@ -26,7 +26,7 @@
     </ul>
     </div>	
 
-    <h1 class="cours">Représentation de Lewis</h1>
+<h1 class="cours">Représentation de Lewis</h1>
 <div class="cours">
     <img src="\filedir/TP.png" class="icone"/>
     <p>(TP6)</p>
@@ -42,7 +42,7 @@ liaison).
     <center>
     <table class="cours">
       <tr>
-        <td></td><td>Structure	électronique</td><td>Structure du gaz noble</td><td>Liaison	covalente</td><td>Doublet	non	liant</td>
+        <td>Nom, symbole et  n° atomique</td><td>Structure	électronique</td><td>Structure du gaz noble</td><td>Liaison(s) covalente(s)</td><td>Doublet(s) non liant(s)</td>
       </tr>
       <tr>
 	<td>carbone	C (Z = 6)</td>
@@ -93,12 +93,13 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
       Conclusion : La répartition pour laquelle les 4 doublets sont les plus éloignés, est une répartition <mark>tétraédrique</mark>
 </p>
 
-  <p>
-    Exemples de molécules non linéaires:
-    <!--  Wikipedia Identification SMILES vue3D  -->
+    <p>
+      <h2>Exemples de molécules non linéaires: </h2>
+
+\comment{Wikipedia Identification SMILES vue3D}
     <ul>
       <li>Méthane : molécule tétraédrique <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Methane&model=C">Visualiser la molécule</a> </li>
-        <li>Méthane : molécule tétraédrique <a  target="wims_external" href="https://fr.wikipedia.org/wiki/Représentation_de_Cram#/media/File:Methane-2D-stereo.svg">Visualiser formule de cram de la molécule</a> </li>
+        <li>Méthane : molécule tétraédrique <a  target="wims_external" href="https://fr.wikipedia.org/wiki/Représentation_de_Cram#/media/File:Methane-2D-stereo.svg">Visualiser formule de Cram de la molécule</a> </li>
       <li>Ammoniac : molécule pyramidale <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Ammoniac&model=N">Visualiser la molécule</a></li>
       <li>Eau : molécule plane coudée <a   target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Eau&model=O">Visualiser la molécule</a></li>
       <li>Méthanal : molécule plane triangulaire <a   target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Méthanal&model=C%3DO">Visualiser la molécule</a></li>
@@ -107,7 +108,7 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
 
 
   <p>
-   Exemples de molécules linéaires:
+    <h2>Exemples de molécules linéaires: </h2>
     <ul>
       <li>Dioxyde de carbone  <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Dioxyde+de+carbone&model=C%28%3DO%29%3DO">Visualiser la molécule</a> </li>
       <li>Dihydrogène <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Dihydrogène&model=%5BHH%5D">Visualiser la molécule</a></li>
@@ -126,7 +127,7 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
     <p>
       Les molécules présentant une double liaison carbone-carbone, du type <span class="formulechimique">R - CH = CH - R’</span> existent sous la forme de deux isomères spatiaux appelés <mark> isomère Z et isomère E </mark>:
       <ul>
-	<li>L’isomère est dénommé Z si R et R’ sont disposés du <mark>même côté</mark> côté de la double liaison;</li>
+	<li>L’isomère est dénommé Z si R et R’ sont disposés du <mark>même côté</mark> de la double liaison;</li>
 	<li>L’isomère est dénommé E si R et R’ sont disposés de <mark>de part et d'autre</mark>  de la double liaison.</li>
       </ul>
       <p>
@@ -145,6 +146,4 @@ Liaison covalente : 6 p106 ; Lewis : 9,10 p 106 ; Géométrie :12,17 p107 ; Isom
 </div>
 
 
-      
-		
-
+  
