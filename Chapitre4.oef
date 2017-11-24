@@ -2,7 +2,7 @@
 \fold{CA4}{Compétences attendues}{}
 <div class="cours">
   <img src="\filedir/book.jpg" class="icone"/>
-  <p>Correspond au chapitre 2  page 37 du livre</p>
+  <p>Correspond au chapitre 2  page 29 du livre</p>
 </div>
 
 
@@ -57,13 +57,7 @@
     Sur un cercle (et sur une étoile chromatique) les couleurs complémentaires sont opposées.
   </p>
   
-  \def{integer OF=-125}
-  \def{integer OFprime=-\OF}
-  \def{integer OA=-300}
-  \def{integer AB=50}
-  \def{real OAprime= 1/(1/\OA + 1/\OFprime)}
-  \def{real gammaL= \OAprime / \OA}
-  \def{real AprimeBprime=\gammaL*\AB }
+  
 
   \def{text cercleChromatique =
   xrange -300,300
@@ -116,6 +110,39 @@
 </p>
 
   <h2>Absorption, transmission et diffusion : </h2>
+
+
+ 
+
+  \def{text objetEclaire =
+  xrange -300,300
+  yrange -300,300
+\comment{filled roundrect -300,-299,299,300,10,skyblue}
+  <!-- objet -->
+  filled roundrect -200,-50,200,50,7,blue
+
+  linewidth 3
+  <!-- lumière incidente -->
+  poly black,0,50,80,130,40,130,40,290,-40,290,-40,130,-80,130
+  <!-- lumière transmise -->
+  filled poly blue,0,-300,70,-220,35,-220,35,-60,-35,-60,-35,-220,-70,-220
+  linewidth 1
+  poly black,0,-300,70,-220,35,-220,35,-60,-35,-60,-35,-220,-70,-220
+
+  <!-- lumière difusée -->
+  arrow -10,50,-250,250,12,blue
+  arrow -10,50,-260,240,12,blue
+  arrow 10,50,250,250,12,blue
+  arrow 10,50,260,240,12,blue
+  }
+
+    \canvasdraw{600,600}{\objetEclaire}
+
+
+
+
+
+
   <p>
   Un objet coloré éclairé peut :
   <ul>
