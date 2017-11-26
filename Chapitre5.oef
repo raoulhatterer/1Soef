@@ -1,0 +1,189 @@
+\comment{CH 5 Des sources de lumière colorées }
+
+\fold{CA5}{Compétences attendues}{}
+<div class="cours">
+  <img src="\filedir/book.jpg" class="icone"/>
+  <p>Correspond au chapitre 3  page 45 du livre</p>
+</div>
+
+
+<h1 class="cours"> Couleur perçue et couleur spectrale </h1>
+<div class="cours">
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP9)</p>
+  <p>
+    Une même couleur  perçue peut correspondre à plusieurs profils spectraux.
+  </p>
+  <h3>Exemples : </h3>
+  <p>
+    La lumière d'une ampoule à incandescence et des lampes de la classe apparaissent blanches, alors que leur spectre est différent : spectre continu pour l'ampoule incandescente, spectre discontinu pour les lampes.
+  </p>
+</div>
+
+  
+  <h1 class="cours">Lumière et ondes électromagnétiques </h1>
+
+  <h2 class="cours">Sources de lumières monochromatiques et polychromatiques </h2>
+  <div class="cours">
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP9)</p>
+  <p>
+    Une lumière émise par une source peut être analysée par un système dispersif comme le prisme ou le réseau.
+  </p>
+
+
+
+  <p class="mark">
+    Si la lumière ne peut pas être décomposée par un système dispersif, la source est dite .......................................... <br/>
+ Elle correspond à une seule radiation lumineuse et est caractérisée par une ...................................................... dans le vide 
+  </p>
+  <div class="wimscenter">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lasers.JPG/1280px-Lasers.JPG" class="cours" alt="Laser rouge (660 & 635 nm), vert (532 & 520 nm) et bleu (445 & 405 nm)" width="300"/>
+</div>
+
+  <h3>Exemple : </h3>
+  <p>
+    La lumière d'un laser rouge λ = 632,8nm. Sur la photo ci-dessus : laser rouge (660 & 635 nm), vert (532 & 520 nm) et bleu (445 & 405 nm).
+  </p>
+  
+  <p class="mark">
+    Si la lumière peut-être décomposée par un système dispersif, la source est dite ................................................. <br/>
+Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques de longueurs d'onde différentes)
+  </p>
+
+  <div class="wimscenter">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sz%C3%ADnszóródás_prizmán1.jpg/750px-Sz%C3%ADnszóródás_prizmán1.jpg" class="cours" alt="Dispersion de la lumière blanche à travers un prisme" width="300"/>
+  </div>
+  
+  <h3>Exemple : </h3>
+  <p>
+  Les sources de lumière naturelles (étoiles, flammes..) ou  ampoules des plafonniers.
+  </p>
+  
+  <h3>Remarque : </h3>
+  <p>
+    Une lumière polychromatique peut provoquer la même sensation colorée qu'une lumière monochromatique (l'œil ne distingue pas le jaune d'une lumière monochromatique d'un jaune obtenu par synthèse additive de lumière rouge et  verte).
+  </p>
+ 
+
+  <h2 class="cours">Longueur d'onde dans le vide d'une radiation </h2>
+  <p>
+    La lumière appartient au domaine des <mark>ondes électromagnétiques</mark>.
+  </p>
+
+  <p >
+    Chaque radiation lumineuse est caractérisée par :
+    <ul>
+      <li class="mark">Sa ...................................................................... \(\displaystyle\lambda\) (lambda) dans le vide. Unités : ..................................</li>
+      <li class="mark">Sa fréquence notée \(\displaystyle\nu\) ( nu)  qui s'exprime en ..................   (ou s<sup>-1 </sup>)</li>
+    </ul>
+  </p>
+
+  <p>
+ Spectre du visible :
+
+ <div class="wimscenter">
+   <img src="\filedir/visible.jpg" class="cours" alt="spectre lumière visible" width= "600"/>
+ </div>
+</p>
+
+  <p>
+    La fréquence ν  d'une radiation lumineuse  est liée à sa longueur d'onde dans le vide λ par la relation : 
+
+
+    <center>
+      <span class="formulemathematique">	\(\lambda= \frac{c}{ \nu}\)  </span>
+    </center>
+
+   \(\displaystyle \lambda\)  en m ;   \(\displaystyle \nu\): en hertz (Hz ou s <sup>-1 </sup> ) et   c = 3,0&times;10<sup>8</sup>m.s<sup>-1 </sup>
+</p>
+  
+ </div>
+III-  Des différentes sources de lumière
+       1) Sources thermiques (à incandescence)- Loi de Wien
+
+Tout corps chaud émet un rayonnement électromagnétique dans le visible lorsqu'il est maintenu à une température suffisamment élevée : c'est le phénomène d'incandescence.
+Une lampe à incandescence a un profil spectral continu qui dépend de sa température. Ce profil spectral présente toujours un maximum d'intensité pour une longueur d'onde λ max.
+Connaissant cette longueur d'onde, on peut déterminer leur température et inversement grâce à la loi de Wien :
+
+Selon la loi de Wien, la longueur d'onde maximum  max à laquelle un corps chaud émet un maximum d'intensité lumineuse est inversement proportionnelle à sa température T :
+       ........................................ = constante
+Lorsque  max s'exprime en mètres et T en kelvin, la constante vaut 2,898.10-3m.K.
+
+
+T(en K) = T(en °C)  +   273
+
+       2) Sources spectrales (à luminescence)
+Tous les processus d'émission de lumière autres que l'incandescence sont qualifiés de luminescence.
+
+Ex :lampes à décharge, lampes fluorescentes, DEL, laser
+
+Le profil spectral d'une lampe fluorescente présente des raies colorées, avec un fond continu noir.
+On parle de spectre de ...................  ....................................... (Spectre discontinu). 
+
+IV- Interaction lumière - matière : modèle corpusculaire de la lumière (livre p48)
+1) Le photon : un quantum d'énergie lumineuse
+
+L'énergie de la lumière est transportée par des photons. Chacun d'entre eux véhicule une énergie appelée quantum d'énergie lumineuse qui dépend de sa fréquence tel que:  
+                                                 
+                                             E =..............................
+
+
+E : énergie du photon en J,                                             fréquence du rayonnement en Hz, 
+h = constante de Planck= 6,62618.10-34J.                    longueur d'onde dans le vide (en m)
+       
+Remarque : souvent l'énergie est exprimée en électronvolt (eV) : 
+1 eV = 1,602.10-19J. (C'est l'énergie que possède un électron soumis à une tension  de 1V)
+
+2) Deux modèles pour décrire la lumière
+Pour une description complète de la lumière, deux aspects sont nécessaires :
+> Le modèle ondulatoire convient bien pour expliquer tous les phénomènes liés à la propagation de la lumière et à la formation d'une image.
+> Le modèle corpusculaire est plus adapté lorsque des interactions entre la lumière et la matière interviennent.
+
+3) Diagramme d'énergie d'un atome
+En 1913, le physicien Niels Bohr  introduit l'idée qu'un atome ne peut exister que dans certains états d'énergie bien définis, caractérisés par un niveau d'énergie.
+Ainsi, l'atome d'hydrogène possède 1 électron sur sa couche K mais possède aussi des couches L, M, N ...
+L'électron si il reçoit de l'énergie peut aller sur les autres couches. L'atome sera alors dit dans un état exité. Il n'aura pas la même énergie.
+Ces niveaux sont dits quantifiés car les valeurs d'énergies correspondantes sont bien déterminées pour un atome donné.
+
+
+L'énergie d'un atome ne peut pas prendre n'importe quelle valeur. Ces valeurs particulières sont appelées niveaux d'énergie.  L'énergie de l'atome est dite quantifiée.
+Un diagramme de niveaux d'énergie, fait apparaître ces niveaux d'énergie quantifiés (discontinus) pour un atome donné, numérotés de 1 à n.
+
+Pour n=1, l'énergie E1 est minimale et l'atome est dit dans son ......................................................, état pour lequel il possède la stabilité maximale.
+
+Pour n1, l'énergie est notée E2, E3,.......En et l'atome est dans un ............................................................
+
+Lorsque n tend vers l'infini, l'énergie est maximale, choisie nulle par convention.  L'atome est alors dans son état ........................................ : il a perdu un ................................
+
+Remarque : avec cette convention, les énergies En sont négatives
+Exemple : pour l'atome d'hydrogène les différents niveaux sont donnés par la relation En =   avec n entier positif et E0 = -13,6 eV 
+
+4) Emission et absorption d'énergie : lien avec les spectres discontinus
+
+Sur un spectre de raies, la position des raies est la carte d'identité des atomes se trouvant dans le gaz.
+L'énergie d'un atome peut être modifiée lorsque l'atome émet ou absorbe de la lumière (donc de l'énergie)
+La radiation lumineuse émise ou absorbée est caractérisée par sa fréquence  et est liée à la variation d'énergie par : 
+E est positif   
+
+
+
+
+Remarques :
+Spectres de raies d'émission : on envoie une décharge électrique (donc de l'énergie) aux atomes présents dans l'ampoule, ceux-ci sont excités et passent dans des niveaux d'énergie plus élevés. Quand ils retournent à l'état fondamental, ils émettent de l'énergie qui correspond aux différentes transitions possibles. (Raies colorées sur fond noir).
+spectres de raies d'absorption, les atomes reçoivent de la part de la lumière blanche, toutes les radiations du domaine du visible, ils absorbent celles qui correspondent aux transitions possibles en fonction de leurs niveaux d'énergie. (Raies noires sur le fond coloré du spectre de la lumière blanche)
+
+5) Spectre du soleil (voir activité)
+Le Soleil peut être assimilé à une boule de gaz très chaude et sous pression qui émet un spectre ............................ qui contient toutes les radiations du visible.
+Son atmosphère est composées d'atomes gazeux « relativement » froid et à basse pression (chromosphère) qui vont .......................................certaines radiations.
+On obtient donc un spectre de ..............................................................................(Environ 20 000 raies sombres !).
+La position des raies est caractéristique des éléments chimiques qui composent l'atmosphère du soleil.
+Profil spectral livre p 51 :  max480nm.  
+Loi de Wien : la température de surface du Soleil est voisine de 5800°C
+
+Exercices : s'auto évaluer p53 tous +17,18,19,24 p 56
+
+
+
+		
+

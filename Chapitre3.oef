@@ -80,21 +80,32 @@ liaison).
 <div class="cours">
     <img src="\filedir/TP.png" class="icone"/>
     <p>(TP6)</p>
-
+    <h2 class="cours">Répartition des doublets</h2>
     <p>
-      Dans la nature les molécules ne sont pas planes comme le prévoit Lewis. Elles ont une structure en 3 dimensions.
+      Dans la nature les molécules ne sont pas planes, elles ont une structure en 3 dimensions. L'analyse des doublets figurant dans la représentation de Lewis d'une molécule permet de déterminer cette géométrie.
     </p>
     <p>
-La plupart des atomes obéissant à la règle de l’octet sont entourés de 8 électrons donc de 4 doublets (liants ou
-non liants). Ces doublets sont constitués d’électrons chargés négativement qui vont se repousser. La molécule
+      La plupart des atomes obéissant à la règle de l’octet sont entourés de 8 électrons donc de 4 doublets (liants ou
+      non liants). Ces doublets sont constitués d’électrons chargés négativement qui vont se repousser. La molécule
 adopte une géométrie dans laquelle ces doublets électroniques sont le plus éloignés les uns des autres.
     </p>
     <p>
-      Conclusion : La répartition pour laquelle les 4 doublets sont les plus éloignés, est une répartition <mark>tétraédrique</mark>
+      Conclusion : La répartition pour laquelle <mark>les 4 doublets</mark> sont les plus éloignés est une <mark>répartition tétraédrique</mark>.
+    </p>
+    <h2 class="cours">Géométrie des molécules</h2>
+      <p>
+      De cette répartition géométrique des 4 doublets découlent différentes géométries de molécules suivant que les doublets considérés soient liants ou non liants :
+      <ul>
+	<li><mark>tétraédrique</mark> (si les doublets de l'atome central sont tous liants sans double liaison) renvoie à un assemblage de cinq atomes : l'atome central est placé au centre d'un tétraèdre et relié à quatre atomes se situant à chaque sommet ;</li>
+	<li><mark>pyramidal à base triangulaire</mark> (si un des doublets n'est pas liant ; pas de double liaison) renvoie à un assemblage de 4 atomes : l'atome central est placé au sommet d'une pyramide et relié à trois atomes se situant aux trois autres sommets.</li>
+	<li><mark>trigonal (triangulaire plane)</mark> (si les doublets sont tous liants avec présence d'une double liaison) renvoie à un assemblage de 4 atomes : l'atome central est placé au centre d'un triangle et relié à trois atomes se situant aux trois sommets du triangle.</li>
+	<li><mark>plane coudée</mark> (si deux doublets sont non liants ; pas de double liaison) renvoie à un assemblage de 3 atomes.</li>
+	<li><mark>linéaire</mark>  (doublets tous liants constituant deux doubles liaisons) renvoie à un assemblage de  3 atomes ou alors (3 doublets non liants) renvoie à un assemblage de 2 atomes. </li>
+      </ul>
 </p>
 
     <p>
-      <h2>Exemples de molécules non linéaires: </h2>
+      <h3>Exemples de molécules non linéaires: </h2>
 
 \comment{Wikipedia Identification SMILES vue3D}
     <ul>
@@ -103,12 +114,13 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
       <li>Ammoniac : molécule pyramidale <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Ammoniac&model=N">Visualiser la molécule</a></li>
       <li>Eau : molécule plane coudée <a   target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Eau&model=O">Visualiser la molécule</a></li>
       <li>Méthanal : molécule plane triangulaire <a   target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Méthanal&model=C%3DO">Visualiser la molécule</a></li>
+      <li>Méthanamine : La molécule est pyramidale autour de l'atome d'azote considéré comme « central » et tétraédrique autour de l'atome de carbone <a  target="wims_external" href="http://chemapps.stolaf.edu/jmol/jmol.php?title=Méthylamine&model=CN">Visualiser la molécule</a> </li>
     </ul>
-  </p>
+  </p> 
 
 
   <p>
-    <h2>Exemples de molécules linéaires: </h2>
+    <h3>Exemples de molécules linéaires: </h2>
     <ul>
       <li>Dioxyde de carbone  <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Dioxyde+de+carbone&model=C%28%3DO%29%3DO">Visualiser la molécule</a> </li>
       <li>Dihydrogène <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Dihydrogène&model=%5BHH%5D">Visualiser la molécule</a></li>
