@@ -98,31 +98,66 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
    \(\displaystyle \lambda\)  en m ;   \(\displaystyle \nu\): en hertz (Hz ou s <sup>-1 </sup> ) et   c = 3,0&times;10<sup>8</sup>m.s<sup>-1 </sup>
 </p>
   
- </div>
-III-  Des différentes sources de lumière
-       1) Sources thermiques (à incandescence)- Loi de Wien
+  </div>
 
-Tout corps chaud émet un rayonnement électromagnétique dans le visible lorsqu'il est maintenu à une température suffisamment élevée : c'est le phénomène d'incandescence.
-Une lampe à incandescence a un profil spectral continu qui dépend de sa température. Ce profil spectral présente toujours un maximum d'intensité pour une longueur d'onde λ max.
-Connaissant cette longueur d'onde, on peut déterminer leur température et inversement grâce à la loi de Wien :
-
-Selon la loi de Wien, la longueur d'onde maximum  max à laquelle un corps chaud émet un maximum d'intensité lumineuse est inversement proportionnelle à sa température T :
-       ........................................ = constante
-Lorsque  max s'exprime en mètres et T en kelvin, la constante vaut 2,898.10-3m.K.
+  <h1 class="cours">Des différentes sources de lumière </h1>
 
 
-T(en K) = T(en °C)  +   273
+  <div class="cours">
+  <h2 class="cours">Sources thermiques (à incandescence)- Loi de Wien </h2>
 
-       2) Sources spectrales (à luminescence)
+  <p>
+    Tout corps chaud émet un rayonnement électromagnétique dans le visible lorsqu'il est maintenu à une température suffisamment élevée : c'est le phénomène <mark>d'incandescence</mark>.
+    </p>    
+    <p>
+    Une lampe à incandescence a un profil spectral <mark>continu</mark> qui dépend de sa température. Ce profil spectral présente toujours un maximum d'intensité pour une longueur d'onde \(\lambda_{max}\).
+</p>
+    <p>
+    Connaissant cette longueur d'onde, on peut déterminer leur température et inversement grâce à la loi de Wien :
+    </p>
+    <div class="definition">
+    \fold{}{Loi de Wien}{
+    <p >
+      Selon <mark>la loi de Wien</mark>, la longueur d'onde \(\lambda_{max}\)  à laquelle un corps chaud émet un maximum d'intensité lumineuse est inversement proportionnelle à sa température T :
+      <center>
+	<span class="formulemathematique">\(\lambda_{max}\cdot T\) = constante </span>
+</center>
+    </p>
+    <br/>
+    <p>
+    Lorsque \(\lambda_{max}\)  s'exprime en mètres et T en kelvin, la constante vaut 2,898&times;10 <sup>-3 </sup> m.K.
+    </p>
+    }
+    </div>
+
+    <h3>Correspondance entre les kelvins et les degrés Celsius</h3>
+    <br/>
+    <center>
+      <span class="formulemathematique">T (en K) = Θ (en °C)  +   273</span>
+    </center>
+
+
+    <h2 class="cours">Sources spectrales (à luminescence) </h2>
+    <p>
 Tous les processus d'émission de lumière autres que l'incandescence sont qualifiés de luminescence.
-
+    </p>
+    <p>
 Ex :lampes à décharge, lampes fluorescentes, DEL, laser
-
-Le profil spectral d'une lampe fluorescente présente des raies colorées, avec un fond continu noir.
+    </p>
+    <p>
+      Le profil spectral d'une lampe fluorescente présente des raies colorées, avec un fond continu noir.
+    </p>
+    <p>
 On parle de spectre de ...................  ....................................... (Spectre discontinu). 
+</p>
 
-IV- Interaction lumière - matière : modèle corpusculaire de la lumière (livre p48)
-1) Le photon : un quantum d'énergie lumineuse
+
+</div>
+
+  <h1 class="cours">Interaction lumière - matière : modèle corpusculaire de la lumière (livre p48) </h1>
+  <div class="cours">
+
+    <h2 class="cours">Le photon : un quantum d'énergie lumineuse</h2>
 
 L'énergie de la lumière est transportée par des photons. Chacun d'entre eux véhicule une énergie appelée quantum d'énergie lumineuse qui dépend de sa fréquence tel que:  
                                                  
@@ -135,12 +170,12 @@ h = constante de Planck= 6,62618.10-34J.                    longueur d'
 Remarque : souvent l'énergie est exprimée en électronvolt (eV) : 
 1 eV = 1,602.10-19J. (C'est l'énergie que possède un électron soumis à une tension  de 1V)
 
-2) Deux modèles pour décrire la lumière
+    <h2 class="cours">Deux modèles pour décrire la lumière</h2>
 Pour une description complète de la lumière, deux aspects sont nécessaires :
 > Le modèle ondulatoire convient bien pour expliquer tous les phénomènes liés à la propagation de la lumière et à la formation d'une image.
 > Le modèle corpusculaire est plus adapté lorsque des interactions entre la lumière et la matière interviennent.
 
-3) Diagramme d'énergie d'un atome
+    <h2 class="cours">Diagramme d'énergie d'un atome</h2>
 En 1913, le physicien Niels Bohr  introduit l'idée qu'un atome ne peut exister que dans certains états d'énergie bien définis, caractérisés par un niveau d'énergie.
 Ainsi, l'atome d'hydrogène possède 1 électron sur sa couche K mais possède aussi des couches L, M, N ...
 L'électron si il reçoit de l'énergie peut aller sur les autres couches. L'atome sera alors dit dans un état exité. Il n'aura pas la même énergie.
@@ -159,7 +194,7 @@ Lorsque n tend vers l'infini, l'énergie est maximale, choisie nulle par convent
 Remarque : avec cette convention, les énergies En sont négatives
 Exemple : pour l'atome d'hydrogène les différents niveaux sont donnés par la relation En =   avec n entier positif et E0 = -13,6 eV 
 
-4) Emission et absorption d'énergie : lien avec les spectres discontinus
+    <h2 class="cours">Emission et absorption d'énergie : lien avec les spectres discontinus</h2>
 
 Sur un spectre de raies, la position des raies est la carte d'identité des atomes se trouvant dans le gaz.
 L'énergie d'un atome peut être modifiée lorsque l'atome émet ou absorbe de la lumière (donc de l'énergie)
@@ -173,14 +208,14 @@ Remarques :
 Spectres de raies d'émission : on envoie une décharge électrique (donc de l'énergie) aux atomes présents dans l'ampoule, ceux-ci sont excités et passent dans des niveaux d'énergie plus élevés. Quand ils retournent à l'état fondamental, ils émettent de l'énergie qui correspond aux différentes transitions possibles. (Raies colorées sur fond noir).
 spectres de raies d'absorption, les atomes reçoivent de la part de la lumière blanche, toutes les radiations du domaine du visible, ils absorbent celles qui correspondent aux transitions possibles en fonction de leurs niveaux d'énergie. (Raies noires sur le fond coloré du spectre de la lumière blanche)
 
-5) Spectre du soleil (voir activité)
+    <h2 class="cours">Spectre du soleil (voir activité)</h2>
 Le Soleil peut être assimilé à une boule de gaz très chaude et sous pression qui émet un spectre ............................ qui contient toutes les radiations du visible.
 Son atmosphère est composées d'atomes gazeux « relativement » froid et à basse pression (chromosphère) qui vont .......................................certaines radiations.
 On obtient donc un spectre de ..............................................................................(Environ 20 000 raies sombres !).
 La position des raies est caractéristique des éléments chimiques qui composent l'atmosphère du soleil.
 Profil spectral livre p 51 :  max480nm.  
 Loi de Wien : la température de surface du Soleil est voisine de 5800°C
-
+</div>
 Exercices : s'auto évaluer p53 tous +17,18,19,24 p 56
 
 
