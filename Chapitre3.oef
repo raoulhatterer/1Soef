@@ -116,7 +116,7 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
 
 \comment{Wikipedia Identification SMILES vue3D}
     <ul>
-      <li>Méthane : molécule tétraédrique <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Methane&model=C">Visualiser la molécule</a> </li>
+      <li>Méthane : molécule tétraédrique <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Methane&model=C">Visualiser la molécule avec JSmol</a> (utiliser la souris pour faire pivoter la molécule)</li>
         <li>Méthane : molécule tétraédrique <a  target="wims_external" href="https://fr.wikipedia.org/wiki/Représentation_de_Cram#/media/File:Methane-2D-stereo.svg">Visualiser formule de Cram de la molécule</a> </li>
       <li>Ammoniac : molécule pyramidale <a  target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Ammoniac&model=N">Visualiser la molécule</a></li>
       <li>Eau : molécule plane coudée <a   target="wims_external" href="https://chemapps.stolaf.edu/jmol/jmol.php?title=Eau&model=O">Visualiser la molécule</a></li>

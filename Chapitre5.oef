@@ -196,9 +196,9 @@ Avec :
       
       <ul>
 	<li>E : énergie du photon en J</li>
-	<li>h : constante de Planck (h =  6,62618&times;10<sup>-34 </sup> J)</li>
+	<li>h : constante de Planck (h =  6,62618&times;10<sup>-34 </sup> J&middot;s)</li>
 	<li>\(\displaystyle \nu\) : fréquence du rayonnement en Hz</li>
-	<li>\(\displaystyle \lambda\) longueur d'onde dans le vide (en m)</li>
+	<li>\(\displaystyle \lambda\) : longueur d'onde dans le vide (en m)</li>
       </ul>
 
 
@@ -208,7 +208,7 @@ Avec :
     <p>
       Souvent l'énergie est exprimée en <mark>électronvolt</mark> (eV) :
       <span class="formulemathematique">
-	1 eV = 1,602&times;10<sup>-19 </sup> J.
+	1 eV = 1,602&times;10<sup>-19 </sup> J
       </span>
 </p>
     <h2 class="cours">Deux modèles pour décrire la lumière</h2>
