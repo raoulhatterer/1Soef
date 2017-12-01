@@ -93,6 +93,13 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
       Conclusion : La répartition pour laquelle <mark>les 4 doublets</mark> sont les plus éloignés est une <mark>répartition tétraédrique</mark>.
     </p>
     <h2 class="cours">Géométrie des molécules</h2>
+        <img src="\filedir/play.jpg" class="icone"/>
+
+    <p>
+	<a target="wims_external" href="https://www.youtube.com/watch?v=2ngcZ1ikulM">Vidéo sur la géométrie des molécules</a>
+      </p>
+
+    
       <p>
       De cette répartition géométrique des 4 doublets découlent différentes géométries de molécules suivant que les doublets considérés soient liants ou non liants :
       <ul>
@@ -100,7 +107,7 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
 	<li><mark>pyramidal à base triangulaire</mark> (si un des doublets n'est pas liant ; pas de double liaison) renvoie à un assemblage de 4 atomes : l'atome central est placé au sommet d'une pyramide et relié à trois atomes se situant aux trois autres sommets.</li>
 	<li><mark>trigonal (triangulaire plane)</mark> (si les doublets sont tous liants avec présence d'une double liaison) renvoie à un assemblage de 4 atomes : l'atome central est placé au centre d'un triangle et relié à trois atomes se situant aux trois sommets du triangle.</li>
 	<li><mark>plane coudée</mark> (si deux doublets sont non liants ; pas de double liaison) renvoie à un assemblage de 3 atomes.</li>
-	<li><mark>linéaire</mark>  (doublets tous liants constituant deux doubles liaisons) renvoie à un assemblage de  3 atomes ou alors (3 doublets non liants) renvoie à un assemblage de 2 atomes. </li>
+	<li><mark>linéaire</mark>  (doublets tous liants constituant deux doubles liaisons ou alors une liaison triple et une liaison simple) renvoie à un assemblage de  3 atomes ou alors (3 doublets non liants) renvoie à un assemblage de 2 atomes. </li>
       </ul>
 </p>
 
@@ -133,9 +140,17 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
 
 <h1 class="cours">Isomérie Z et E </h1>
 <div class="cours">
-    <img src="\filedir/TP.png" class="icone"/>
-    <p>(TP7)</p>
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP7)</p>
+  <p>
+    <center>
 
+      <img src="\filedir/isomereZE.jpg" width="600" alt="isomères Z et E"/>
+    </center>
+
+  </p>
+
+    
     <p>
       Les molécules présentant une double liaison carbone-carbone, du type <span class="formulechimique">R - CH = CH - R’</span> existent sous la forme de deux isomères spatiaux appelés <mark> isomère Z et isomère E </mark>:
       <ul>
@@ -144,6 +159,11 @@ adopte une géométrie dans laquelle ces doublets électroniques sont le plus é
       </ul>
       <p>
 	Ces deux isomères ont des propriétés chimiques et physiques <mark>différentes </mark>.
+      </p>
+      <img src="\filedir/play.jpg" class="icone"/>
+
+      <p>
+	<a target="wims_external" href="https://www.youtube.com/watch?v=21Oq4uRF6MY">Vidéo sur l'isomérie Z/E</a>
       </p>
       <p>
 	<mark>L’isomérisation photochimique </mark> est la transformation d’un isomère Z en son isomère E ( ou vice versa) sous l’effet

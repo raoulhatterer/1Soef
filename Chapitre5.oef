@@ -111,13 +111,20 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
 
   <p>
     Tout corps chaud émet un rayonnement électromagnétique dans le visible lorsqu'il est maintenu à une température suffisamment élevée : c'est le phénomène <mark>d'incandescence</mark>.
-    </p>    
+  </p>
+<p>
+<a target="wims_external" href="http://media4.obspm.fr/public/FSU/temperature/rayonnement/corps-noir/spectre-corps-noir/SIMULER.html">Simulateur de l’Observatoire de Paris</a>
+    </p>
+
+  <center>
+<img src="\filedir/wien.png" width="500" alt="loi de Wien"/>
+  </center>
+
+  
     <p>
     Une lampe à incandescence a un profil spectral <mark>continu</mark> qui dépend de sa température. Ce profil spectral présente toujours un maximum d'intensité pour une longueur d'onde \(\lambda_{max}\).
     </p>
-    <p>
-<a target="wims_external" href="http://media4.obspm.fr/public/FSU/temperature/rayonnement/corps-noir/spectre-corps-noir/SIMULER.html">Simulateur de l’Observatoire de Paris</a>
-    </p>
+    
     
     <p>
       Connaissant cette longueur d'onde, on peut déterminer leur température et inversement grâce à la loi de Wien :
@@ -125,14 +132,15 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
     <div class="definition">
       \fold{}{Loi de Wien}{
       <p >
-	Selon <mark>la loi de Wien</mark>, la longueur d'onde \(\lambda_{max}\)  à laquelle un corps chaud émet un maximum d'intensité lumineuse est inversement proportionnelle à sa température T :
+	Selon <mark>la loi de Wien</mark>, la longueur d'onde \(\lambda_{max}\)  à laquelle un corps chaud émet un maximum d'intensité lumineuse est inversement proportionnelle à sa température T : 
       </p>
+      <br/>
       <p>
 	<center>
 	  <span class="formulemathematique">\(\lambda_{max}\cdot T\) = constante </span>
 	</center>
       </p>
-
+      <br/>
     <p>
     Lorsque \(\lambda_{max}\)  s'exprime en mètres et T en kelvin, la constante vaut 2,898&times;10 <sup>-3 </sup> m.K.
     </p>
