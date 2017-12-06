@@ -1,0 +1,207 @@
+\comment{CH 6 : l'évolution d'un système chimique}
+
+
+
+
+
+\fold{C65}{Compétences attendues}{}
+<div class="cours">
+  <img src="\filedir/book.jpg" class="icone"/>
+  <p>Correspond au chapitre  au chapitre 5 page 79 du livre</p>
+</div>
+
+
+
+<h1 class="cours">Description d’un système chimique à l’aide d’un tableau d’avancement </h1>
+<div class="cours">
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP11)</p>
+
+ L’avancement d’une réaction permet de décrire la composition d'un système chimique au cours de sa transformation à tout moment. Il se note \(x\) et s’exprime en mol.
+
+  <h3>Exemple avec la réaction du TP 12 tube 1 :</h3>
+
+  <center>
+    <table class="cours">
+      <tr>
+	<th scope="col" colspan="2">Équation chimique:</th>
+	<th scope="col" colspan="4">I<sub>2</sub> (aq)    &nbsp;  &nbsp;     + &nbsp;&nbsp;  2    S<sub>2</sub>O<sub>3</sub><sup>2-</sup>(aq)      &nbsp;&nbsp; &nbsp;  →  &nbsp;&nbsp; &nbsp;  2 I<sup>-</sup> (aq) &nbsp;&nbsp; &nbsp;       +  &nbsp;&nbsp;    S<sub>4</sub>O<sub>6</sub><sup>2-</sup> (aq)</th>
+      </tr>
+      <tr>
+	<td></td>
+	<td width="15%">avancement</td>
+	<td width="15%">n(I<sub>2</sub>) en mol</td>
+	<td width="15%"> n(S<sub>2</sub>O<sub>3</sub><sup>2-</sup>) en mol</td>
+	<td width="15%">n(I<sup>-</sup>) en mol</td>
+	<td width="15%">n(S<sub>4</sub>O<sub>6</sub><sup>2-</sup>) en mol</td>
+      </tr>
+      <tr>
+	<th scope="row">État Initial :</th>
+	<td>\(x = 0\)</td>
+	<td>n<sub>0</sub> = 7,0&times;10<sup>-4</sup></td>
+	<td>n<sub>1</sub> = 2,0&times;10<sup>-4</sup></td>
+	<td>.....</td>
+	<td>.....</td>
+      </tr>
+      <tr>
+	<th scope="row">En cours de transformation :</th>
+	<td>\(x\)</td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+      </tr>
+      <tr>
+	<th scope="row">État Final :</th>
+	<td>\(x = x_{max}\)</sub></td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+      </tr>
+    </table>
+  </center>
+
+<h3>Remarques : </h3>
+<ul>
+  <li>L'avancement \(x\) est nul au début de la réaction et augmente au cours de la transformation jusqu’à atteindre une valeur maximale quand la réaction est terminée (épuisement d’un des réactifs)</li>
+  <li>Ici, les nombres qui précèdent l'avancement \(x\)  sont toujours les nombres stoéchiométriques de l'équation, précédés d'un signe « - » pour les réactifs (dont la quantité diminue), d'un signe « + » pour les produits (dont la quantité augmente)</li>
+</ul>
+
+<h2 class="cours">Avancement maximal et réactif limitant </h2>
+
+<p>
+ Au cours de la réaction, les quantités de matière des réactifs diminue jusqu’à ce que l’une d’entre elle s’annule. C’est l’état final. Il est caractérisé par un avancement maximal, noté \(x_{max}\) (en mol).
+</p>
+<h3>Comment déterminer cet avancement maximal ? </h3>
+<p class="definition">
+L’avancement maximal est la plus petite valeur de \(x\) pour laquelle la quantité de matière de l’un des réactifs devient nulle.
+</p>
+<p>
+  Pour cela il faut poser des hypothèses :
+  <ul>
+    <li>Hypothèse 1 : si le diiode I<sub>2</sub>  est le réactif limitant alors il n’en reste plus à la fin :
+    \fold{}{Résolution}{ <br/><br/><br/><span class="formulemathematique">\(n_0-x_{max}=0\)</span> &nbsp; donc &nbsp; <span class="formulemathematique">\(x_{max}=n_0=7,0\cdot 10^{-4}\)mol</span><br/><br/><br/>}</li>
+    <li>Hypothèse 2 : si l'ion thiosulfate  S<sub>2</sub>O<sub>3</sub><sup>2-</sup> est le réactif limitant alors il n’en reste plus à la fin :    \fold{}{Résolution}{ <br/><br/><br/><span class="formulemathematique">\(n_1-2x_{max}=0\)</span> &nbsp; donc &nbsp; <span class="formulemathematique">\(x_{max}=\frac{n_1}{2}=\frac{2,0\cdot 10^{-4}}{2}=1,0\cdot 10^{-4}\)mol</span><br/><br/><br/>}</li>
+  </ul>
+</p>
+<p>
+\(x_{max}\) correspond à la plus petite de ces deux valeurs. Donc \(x_{max} =\)……………………………….
+</p>
+<p>
+  Le réactif qui est totalement consommé (qui vient à manquer en premier) et qui empêche la réaction de se poursuivre est appelé le <mark>réactif limitant</mark>
+  .  C’est celui qui correspond à l’hypothèse pour laquelle la valeur de x est la plus petite.
+</p>
+<p>
+  Le ou les réactifs restant à l’état final sont appelés <mark>réactifs en excès</mark>.
+  </p>
+  <p>
+L’état final du système peut être décrit en remplaçant \(x_{max}\) par sa valeur.
+</p>
+
+<h3>Remarques : </h3>
+<p>
+la valeur de xmax dépend des quantités de matière introduites à l’état initial.	
+</p>
+Autre méthode :
+
+
+
+
+1)	
+2)	Cas particulier du mélange stoechiométrique
+Le mélange est dit stoéchiomètrique si les quantités de matière de tous les réactifs s’annulent pour la même valeur de x. Dans ces conditions, à la fin de la transformation chimique, les réactifs sont tous consommés, et l’état final n’est constitué que des produits de la réaction.
+
+Exemple : 
+Équation chimique:
+
+             I2           +       2 S2O32-         →      2 I-      +     S4O62-
+
+avancement
+n(I2) en mol
+ n(S2O32-) en mol
+n(I-) en mol
+n(S4O62-)en mol
+État Initial:
+x = .....
+no= 1,5.10-4
+n1= 3,0.10-4
+0
+0
+En cours de transformation:
+x
+.....
+.....
+.....
+.....
+État Final :
+xmax
+.....
+.....
+.....
+.....
+
+Hypothèse 1 : si I2  est le réactif limitant alors il n’en reste plus à la fin:  …………………………………………………
+…………………………………………………………………………….
+Hypothèse 2 : si OH-est le réactif limitant alors il n’en reste plus à la fin:………………………………………………….
+…………………………………………………………………………….
+Autre méthode :
+
+
+3)	Analyse graphique
+
+
+
+
+
+
+
+
+
+                                                                                                             0                  xmax=1,5.10-4
+  Cas du tube 1                                                                                             Cas du mélange stœchiométrique
+
+
+
+  
+  </div>
+
+  
+II.	Détermination de la concentration d’une espèce chimique colorée  (TP 13 + livre p 360)
+1)	Rappels : solutions colorées 
+Une solution est colorée si elle absorbe une partie des radiations de la lumière blanche.  La couleur perçue est la couleur complémentaire de la couleur absorbée. Deux couleurs complémentaires se font face dans le cercle chromatique simplifié ci-contre.
+1)	
+2)	Spectre d’absorption
+L’absorbance A (sans unité) est liée à la proportion de lumière absorbée par une solution colorée.
+
+
+Un spectrophotomètre mesure l’absorbance A d’une solution colorée à différentes longueurs d’onde ce qui permet de tracer le spectre d’absorption : courbe A= f (). 
+Cette courbe passe par un maximum. On peut alors repérer la longueur d’onde  max pour laquelle l’absorbance est maximale.
+
+Exemple : solution de permanganate de potassium :  λmax=  ……………………. 
+                  couleur absorbée=…………………………… ;
+                  couleur perçue=……………………………………..
+3)	Courbe d’étalonnage et loi de Beer-Lambert
+
+
+Faire le le blanc permet de soustraire l’absorbance liée à au solvant et à la cuve. Il suffit d’introduire une cuve remplie de solvant dans le spectrophotomètre et lui régler une absorbance égale à 0.
+
+Pour étudier l’influence de la concentration de la solution sur l’absorbance, il est nécessaire de fixer la longueur d’onde à la valeur de  max car l’absorbance des mesures y est maximale. Le risque d’erreur sera minimal.
+Pour  max fixée,  le graphe A = f(C) représentant l’absorbance en fonction de la concentration de solutions connues (obtenues à partir d’une échelle de teinte) est nommé courbe d’étalonnage. On obtient une droite ce qui signifie que les 2 grandeurs sont proportionnelles.
+A longueur d’onde, température et épaisseur de solution données, l’absorbance A d’une solution colorée est proportionnelle à la concentration C de la solution : 
+A = K × C	où : 	A est l’absorbance (sans unité), C est la concentration molaire (en mol.L-1) 
+      				K est un coefficient de proportionnalité (en L.mol-1) qui dépend de la longueur d’onde, de la nature de la solution, de l’épaisseur de solution traversée et de la température.
+Limite de validité :  Cette relation n’est valable que pour des espèces colorées dont la concentration est inférieure 1,0.10-2 mol.L-1.
+
+4)	Dosage : détermination de la concentration d’une solution inconnue.
+Doser une espèce chimique en solution, c’est déterminer avec précision sa concentration.
+Il suffit de mesurer l’absorbance de la solution inconnue (au  max ) et de la reporter sur la droite d’étalonnage. On lit en abscisse la valeur de la concentration correspondante.
+
+’autoévaluer p 87+      Exercices 9,11,15, 13,  19 p90/91/92
+
+
+
+
+
+
+
