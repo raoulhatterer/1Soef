@@ -103,7 +103,8 @@ L’état final du système peut être décrit en remplaçant \(x_{max}\) par sa
 <p>
 la valeur de xmax dépend des quantités de matière introduites à l’état initial.	
 </p>
-<h3>Autre méthode :</h3>
+<h3>Autre méthode : analyse graphique</h3>
+
     \def{text tube1 =
     xrange -200,500
     yrange -50,500
@@ -123,66 +124,105 @@ la valeur de xmax dépend des quantités de matière introduites à l’état in
     mathml -175,60*2,110,110, wims(mathmlmath n(S_2O_3^{2-})=2&#183;10^{-4})
     <!-- I-  -->
     segment 0,0,400,60*2,green
+    mathml 410,60*2,110,110, wims(mathmlmath n(I^{-}))
     <!-- S4O6^2-  -->
     segment 0,0,400,60*1,magenta
+    mathml 410,60*1,110,110, wims(mathmlmath n(S_4O_6^{2-}))
     dashed
     segment 400,0,400,450,black
 	    }
 
 	    \canvasdraw{700,550}{\tube1}
 
-	1)	
-	2)	Cas particulier du mélange stoechiométrique
-	Le mélange est dit stoéchiomètrique si les quantités de matière de tous les réactifs s’annulent pour la même valeur de x. Dans ces conditions, à la fin de la transformation chimique, les réactifs sont tous consommés, et l’état final n’est constitué que des produits de la réaction.
-
-	Exemple : 
-	Équation chimique:
-
-		     I2           +       2 S2O32-         →      2 I-      +     S4O62-
-
-	avancement
-	n(I2) en mol
-	 n(S2O32-) en mol
-	n(I-) en mol
-	n(S4O62-)en mol
-	État Initial:
-	x = .....
-	no= 1,5.10-4
-	n1= 3,0.10-4
-	0
-	0
-	En cours de transformation:
-	x
-	.....
-	.....
-	.....
-	.....
-	État Final :
-	xmax
-	.....
-	.....
-	.....
-	.....
-
-	Hypothèse 1 : si I2  est le réactif limitant alors il n’en reste plus à la fin:  …………………………………………………
-	…………………………………………………………………………….
-	Hypothèse 2 : si OH-est le réactif limitant alors il n’en reste plus à la fin:………………………………………………….
-	…………………………………………………………………………….
-	Autre méthode :
+    <h2 class="cours">Cas particulier du mélange stoechiométrique </h2>
+    <p class="definition">
+	Le mélange est dit stoéchiomètrique si les quantités de matière de tous les réactifs s’annulent pour la même valeur de \(x\). Dans ces conditions, à la fin de la transformation chimique, les réactifs sont tous consommés, et l’état final n’est constitué que des produits de la réaction.
+</p>
 
 
-	3)	Analyse graphique
+  <h3>Exemple :</h3>
+
+  <center>
+    <table class="cours">
+      <tr>
+	<th scope="col" colspan="2">Équation chimique:</th>
+	<th scope="col" colspan="4">I<sub>2</sub> (aq)    &nbsp;  &nbsp;     + &nbsp;&nbsp;  2    S<sub>2</sub>O<sub>3</sub><sup>2-</sup>(aq)      &nbsp;&nbsp; &nbsp;  →  &nbsp;&nbsp; &nbsp;  2 I<sup>-</sup> (aq) &nbsp;&nbsp; &nbsp;       +  &nbsp;&nbsp;    S<sub>4</sub>O<sub>6</sub><sup>2-</sup> (aq)</th>
+      </tr>
+      <tr>
+	<td></td>
+	<td width="15%">avancement</td>
+	<td width="15%">n(I<sub>2</sub>) en mol</td>
+	<td width="15%"> n(S<sub>2</sub>O<sub>3</sub><sup>2-</sup>) en mol</td>
+	<td width="15%">n(I<sup>-</sup>) en mol</td>
+	<td width="15%">n(S<sub>4</sub>O<sub>6</sub><sup>2-</sup>) en mol</td>
+      </tr>
+      <tr>
+	<th scope="row">État Initial :</th>
+	<td>\(x = \dots\)</td>
+	<td>n<sub>0</sub> = 1,5&times;10<sup>-4</sup></td>
+	<td>n<sub>1</sub> = 3,0&times;10<sup>-4</sup></td>
+	<td>0</td>
+	<td>0</td>
+      </tr>
+      <tr>
+	<th scope="row">En cours de transformation :</th>
+	<td>\(x\)</td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+      </tr>
+      <tr>
+	<th scope="row">État Final :</th>
+	<td>\(x = x_{max}\)</sub></td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+	<td>.....</td>
+      </tr>
+    </table>
+  </center>
+
+<p>
+  <ul>
+    <li>Hypothèse 1 : si le diiode I<sub>2</sub>  est le réactif limitant alors il n’en reste plus à la fin :
+    \fold{}{Résolution}{ <br/><br/><br/><span class="formulemathematique">\(n_0-x_{max}=0\)</span> &nbsp; donc &nbsp; <span class="formulemathematique">\(x_{max}=n_0=1,5\cdot 10^{-4}\)mol</span><br/><br/><br/>}</li>
+    <li>Hypothèse 2 : si l'ion thiosulfate  S<sub>2</sub>O<sub>3</sub><sup>2-</sup> est le réactif limitant alors il n’en reste plus à la fin :    \fold{}{Résolution}{ <br/><br/><br/><span class="formulemathematique">\(n_1-2x_{max}=0\)</span> &nbsp; donc &nbsp; <span class="formulemathematique">\(x_{max}=\frac{n_1}{2}=\frac{3,0\cdot 10^{-4}}{2}=1,5\cdot 10^{-4}\)mol</span><br/><br/><br/>}</li>
+  </ul>
+</p>
 
 
+<h3>Autre méthode : analyse graphique</h3>
 
+    \def{text stoechiometrique =
+    xrange -200,500
+    yrange -50,500
+    filled roundrect -200,-100,500,500,10,skyblue
+    <!-- échelle x 60 -->
+    <!-- avancement -->
+    arrow 0,0,450,0,8,black
+    mathml 410,-20,110,110, wims(mathmlmath x) (en mol)
+    <!-- quantités de matière -->
+    arrow 0,0,0,490,8,black
+    mathml -100,470,110,110, wims(mathmlmath n) (en mol)
+    <!-- n_I2 -->
+    segment 0,60*1.5,400,0,blue
+    mathml -140,60*1.5,110,110, wims(mathmlmath n(I_2)=7&#183;10^{-4})
+    <!-- n_S2O3^2--->
+    segment 0,60*3,400,0,red
+    mathml -175,60*3,110,110, wims(mathmlmath n(S_2O_3^{2-})=2&#183;10^{-4})
+    <!-- I-  -->
+    segment 0,0,400,60*2,green
+    mathml 410,60*2,110,110, wims(mathmlmath n(I^{-}))
+    <!-- S4O6^2-  -->
+    segment 0,0,400,60*1,magenta
+    mathml 410,60*1,110,110, wims(mathmlmath n(S_4O_6^{2-}))
+    dashed
+    segment 400,0,400,450,black
+	    }
 
+	    \canvasdraw{700,550}{\stoechiometrique}
 
-
-
-
-
-														     0                  xmax=1,5.10-4
-	  Cas du tube 1                                                                                             Cas du mélange stœchiométrique
 
 
 
