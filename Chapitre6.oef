@@ -296,12 +296,22 @@ couleur perçue : ……………………………………..
   </p>
   <p>
     Limite de validité :  Cette relation n’est valable que pour des espèces colorées dont la concentration est inférieure 1,0&middot;10<sup>-2</sup> mol&middot;L<sup>-1</sup>.
-  </p>  
-  <h2 class="cours">Dosage : détermination de la concentration d’une solution inconnue </h2>
-  Doser une espèce chimique en solution, c’est déterminer avec précision sa concentration.
-  Il suffit de mesurer l’absorbance de la solution inconnue (au \(\lambda_{max}\)) et de la reporter sur la droite d’étalonnage. On lit en abscisse la valeur de la concentration correspondante.
+  </p>
 
-  ’autoévaluer p 87+      Exercices 9,11,15, 13,  19 p90/91/92
+  
+  <h2 class="cours">Dosage : détermination de la concentration d’une solution inconnue </h2>
+  <p>
+    Doser une espèce chimique en solution, c’est déterminer avec précision sa concentration.
+  </p>
+  <center>
+<img src="\filedir/AfonctionC.png" width="200" alt="Courbe d'étalonnage"/>
+  </center>
+
+  <p>
+  Il suffit de mesurer l’absorbance de la solution inconnue (au \(\lambda_{max}\)) et de la reporter sur la droite d’étalonnage. On lit en abscisse la valeur de la concentration correspondante.
+  </p>
+    <img src="\filedir/book.jpg" class="icone"/>
+    <h3>Exercices : s’autoévaluer p 87+ 9,11,15,13,19 p90/91/92</h3>
 </div>
 
 
