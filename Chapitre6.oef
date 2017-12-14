@@ -15,7 +15,7 @@
 <h1 class="cours">Description d’un système chimique à l’aide d’un tableau d’avancement</h1>
 <div class="cours">
   <img src="\filedir/TP.png" class="icone"/>
-  <p>(TP11)</p>
+  <p>(TP12)</p>
 
  L’avancement d’une réaction permet de décrire la composition d'un système chimique au cours de sa transformation à tout moment. Il se note \(x\) et s’exprime en mol.
 
@@ -229,22 +229,39 @@ la valeur de xmax dépend des quantités de matière introduites à l’état in
 
 	  </div>
 
-
-	II.	Détermination de la concentration d’une espèce chimique colorée  (TP 13 + livre p 360)
-	1)	Rappels : solutions colorées 
-	Une solution est colorée si elle absorbe une partie des radiations de la lumière blanche.  La couleur perçue est la couleur complémentaire de la couleur absorbée. Deux couleurs complémentaires se font face dans le cercle chromatique simplifié ci-contre.
-	1)	
-	2)	Spectre d’absorption
-	L’absorbance A (sans unité) est liée à la proportion de lumière absorbée par une solution colorée.
+<h1 class="cours">Détermination de la concentration d’une espèce chimique colorée </h1>
+<div class="cours">
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP13 + livre p 360)</p>
 
 
-	Un spectrophotomètre mesure l’absorbance A d’une solution colorée à différentes longueurs d’onde ce qui permet de tracer le spectre d’absorption : courbe A= f (). 
-	Cette courbe passe par un maximum. On peut alors repérer la longueur d’onde  max pour laquelle l’absorbance est maximale.
+  <h2 class="cours">Rappels : solutions colorées </h2>
+	Une solution est colorée si elle absorbe une partie des radiations de la lumière blanche.  La couleur perçue est la couleur complémentaire de la couleur absorbée. Deux couleurs complémentaires se font face dans le cercle chromatique. (\link{Chapitre4}{Chapitre 4 : La couleur des objets})
+	
 
-	Exemple : solution de permanganate de potassium :  λmax=  ……………………. 
-			  couleur absorbée=…………………………… ;
-			  couleur perçue=……………………………………..
-	3)	Courbe d’étalonnage et loi de Beer-Lambert
+  <h2 class="cours">Spectre d’absorption </h2>
+  <p>
+	L’absorbance \(A\) (sans unité) est liée à la proportion de lumière absorbée par une solution colorée.
+  </p>
+
+<a target="wims_external" href="http://www.spc.ac-aix-marseille.fr/phy_chi/Menu/Activites_pedagogiques/livre_interactif_chimie/12_TPsuivi_cinetique_spectro/principe_web_web/res/spectrophotometre2.swf">Animation</a>
+
+<p>
+  Un spectrophotomètre mesure l’absorbance \(A\) d’une solution colorée à différentes longueurs d’onde ce qui permet de tracer le spectre d’absorption : courbe \(A= f (\lambda)\). <br/>
+	Cette courbe passe par un maximum. On peut alors repérer la longueur d’onde \(\lambda_{max}\) pour laquelle l’absorbance est maximale.
+</p>
+<p>
+<center>
+<img src="\filedir/absorbance.png" width="600" alt="absorbance du permanganate de potassium"/>
+</center>
+</p>
+<p>
+	Exemple : solution de permanganate de potassium :  \(\lambda_{max}=\)  ……………………. ; 
+			  couleur absorbé : …………………………… ; 
+couleur perçue : ……………………………………..
+</p>
+
+  <h2 class="cours">Courbe d’étalonnage et loi de Beer-Lambert </h2>
 
 
 	Faire le le blanc permet de soustraire l’absorbance liée à au solvant et à la cuve. Il suffit d’introduire une cuve remplie de solvant dans le spectrophotomètre et lui régler une absorbance égale à 0.
@@ -255,16 +272,12 @@ la valeur de xmax dépend des quantités de matière introduites à l’état in
 	A = K × C	où : 	A est l’absorbance (sans unité), C est la concentration molaire (en mol.L-1) 
 					K est un coefficient de proportionnalité (en L.mol-1) qui dépend de la longueur d’onde, de la nature de la solution, de l’épaisseur de solution traversée et de la température.
 	Limite de validité :  Cette relation n’est valable que pour des espèces colorées dont la concentration est inférieure 1,0.10-2 mol.L-1.
-
-	4)	Dosage : détermination de la concentration d’une solution inconnue.
+  <h2 class="cours">Dosage : détermination de la concentration d’une solution inconnue </h2>
 	Doser une espèce chimique en solution, c’est déterminer avec précision sa concentration.
 	Il suffit de mesurer l’absorbance de la solution inconnue (au  max ) et de la reporter sur la droite d’étalonnage. On lit en abscisse la valeur de la concentration correspondante.
 
 	’autoévaluer p 87+      Exercices 9,11,15, 13,  19 p90/91/92
-
-
-
-
+</div>
 
 
 
