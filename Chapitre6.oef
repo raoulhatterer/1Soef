@@ -272,17 +272,22 @@ couleur perçue : ……………………………………..
   <h3>Courbe d'étalonnage</h3>
   <p>
     Pour étudier l’influence de la concentration de la solution sur l’absorbance, il est nécessaire de fixer la longueur d’onde à la valeur de \(\lambda_{max}\) car l’absorbance des mesures y est maximale. Le risque d’erreur sera minimal.
-    Pour \(\lambda_{max}\) fixée,  le graphe \(A = f(C)\) représentant l’absorbance en fonction de la concentration de solutions connues (obtenues à partir d’une échelle de teinte) est nommé courbe d’étalonnage. On obtient une droite ce qui signifie que les 2 grandeurs sont proportionnelles.
+    Pour \(\lambda_{max}\) fixée,  le graphe \(A = f(C)\) représentant <mark>l’ absorbance en fonction de la concentration</mark>
+    de solutions connues (obtenues à partir d’une échelle de teinte) est nommé courbe d’étalonnage. On obtient une droite ce qui signifie que les 2 grandeurs sont proportionnelles.
   </p>
 
   <h3>Loi de Beer-Lambert</h3>
   
   <p>
-    À longueur d’onde, température et épaisseur de solution données, l’absorbance \(A\) d’une solution colorée est proportionnelle à la concentration \(C\) de la solution : 
+    À longueur d’onde, température et épaisseur de solution données, <mark>l’absorbance \(A\) d’une solution colorée est proportionnelle à la concentration \(C\)</mark>
+    de la solution : 
   </p>
+  <br/>
+  <p>
   <center>
     <span class="formulemathematique">\(A = K \times C\) </span>
   </center>
+  </p>
   <p>
     où :
     <ul>
