@@ -62,6 +62,30 @@
     </table>
   </center>
 
+<div class="rappel">
+  \fold{}{Rappel : Comment calculer une quantité de matière ?}{[ Rappel : <b>Comment calculer une quantité de matière ?</b> ]
+  <p>
+    <ul>
+      <li>Si l'on connait la <mark>masse \(m\)</mark>
+	(en \(g\)) et la <mark>masse molaire \(M\)</mark>
+	(en \(g\cdot mol^{-1}\)) on fait : <br/><br/>
+	<center>
+	  <span class="formulemathematique">\(n=\frac{m}{M}\) </span>
+      </center></li>
+      <br/>
+      <li>Si l'on connait le <mark>volume \(V\)</mark> (en \(L\)) et la <mark>concentration molaire \(C\)</mark>
+	(en \(mol\cdot L^{-1}\)) on fait : <br/><br/><br/>
+	<center>
+	  <span class="formulemathematique">\(n=C\cdot V\)</span>
+	</center>
+      </li>
+    </ul>
+    
+  </p>
+  }
+</div>
+
+
 <h3>Remarques : </h3>
 <ul>
   <li>L'avancement \(x\) est nul au début de la réaction et augmente au cours de la transformation jusqu’à atteindre une valeur maximale quand la réaction est terminée (épuisement d’un des réactifs)</li>
