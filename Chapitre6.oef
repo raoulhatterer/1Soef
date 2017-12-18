@@ -278,7 +278,25 @@ la valeur de \(x_{max}\) dépend des quantités de matière introduites à l’�
     <mark>L’absorbance \(A\) (sans unité) est liée à la proportion de lumière absorbée par une solution colorée.</mark>
   </p>
 
-<a target="wims_external" href="http://www.spc.ac-aix-marseille.fr/phy_chi/Menu/Activites_pedagogiques/livre_interactif_chimie/12_TPsuivi_cinetique_spectro/principe_web_web/res/spectrophotometre2.swf">Animation</a>
+
+
+  <div class="wimscenter">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+	    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0"
+	    width="800"
+	    height="600">
+      <param name="movie" value="\filedir/spectrophotometre2.swf">
+	<param name="quality" value="high">
+	  <embed src="\filedir/spectrophotometre2.swf" quality="high"
+		 pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"
+		 width="800"
+		 height="600"></embed>
+    </object>
+  </div>
+
+
+  <a target="wims_external" href="http://www.spc.ac-aix-marseille.fr/phy_chi/Menu/Activites_pedagogiques/livre_interactif_chimie/12_TPsuivi_cinetique_spectro/principe_web_web/res/spectrophotometre2.swf">Voir l'animation en plein écran</a>
+  
 
 <p>
   Un spectrophotomètre mesure l’absorbance \(A\) d’une solution colorée à différentes longueurs d’onde ce qui permet de tracer le <mark>spectre d’absorption</mark>
