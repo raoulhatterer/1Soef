@@ -269,7 +269,7 @@ Avec :
     </center>
     
 
-    <h2 class="cours">Emission et absorption d'énergie : lien avec les spectres discontinus</h2>
+    <h2 class="cours">Émission et absorption d'énergie : lien avec les spectres discontinus</h2>
     <p>
 Sur un spectre de raies, la position des raies est la carte d'identité des atomes se trouvant dans le gaz.
 L'énergie d'un atome peut être modifiée lorsque l'atome émet ou absorbe de la lumière (donc de l'énergie).
@@ -298,10 +298,14 @@ L'énergie d'un atome peut être modifiée lorsque l'atome émet ou absorbe de l
     <ul>
       <li>Spectres de <mark>raies d'émission</mark> : on envoie une décharge électrique (donc de l'énergie) aux atomes présents dans l'ampoule, ceux-ci sont excités et passent dans des niveaux d'énergie plus élevés. Quand ils retournent à l'état fondamental, ils émettent de l'énergie qui correspond aux différentes transitions possibles.  C'est pourquoi on observe des raies colorées sur fond noir.
       </li>
-      <li>Spectres de <mark>raies d'absorption</mark> : les atomes reçoivent de la part de la lumière blanche, toutes les radiations du domaine du visible, ils absorbent celles qui correspondent aux transitions possibles en fonction de leurs niveaux d'énergie. C'est pourquoi on observe des raies noires sur le fond coloré du spectre de la lumière blanche.
+      <li>Spectres de <mark>raies d'absorption</mark> : les atomes reçoivent de la part de la lumière blanche, toutes les radiations du domaine du visible, ils absorbent celles qui correspondent aux transitions possibles en fonction de leurs niveaux d'énergie. C'est pourquoi on observe des raies noires (dues aux photons ayant interagit avec l'atome) sur le fond coloré du spectre de la lumière blanche (les photons correspondant sont passés librement sans interagir avec l'atome).
       </li>
+      <li>Les raies d'émission et les raies d'absorption se produisent aux mêmes longueurs d'onde car celles-ci sont calculées de la même façon : à partir des différences d'énergie entre les mêmes niveaux.</li>
+      <li>Un atome est capable d'absorber n'importe quel photon d'énergie supérieure à l'énergie nécessaire à son ionisation. Dans ce cas, une partie de l'énergie du photon absorbé permet l'ionisation de l'atome, le complément d'énergie étant transféré à l'électron libre sous forme d'énergie cinétique.</li>
     </ul>
-
+  <img src="\filedir/book.jpg" class="icone"/>
+  <h3>Exercice corrigé p 54</h3>
+  
     <h2 class="cours">Spectre du soleil (voir activité)</h2>
     <p>
       <ul>
@@ -309,6 +313,14 @@ L'énergie d'un atome peut être modifiée lorsque l'atome émet ou absorbe de l
 	<li>L' atmosphère du Soleil est composée d'atomes gazeux « relativement » froids et à basse pression (chromosphère) qui vont .......................................certaines radiations.</li>
       </ul>
     </p>
+    <h3>Pourquoi des raies d'absorption ?</h3>
+    <p>
+L'état stable d'un atome est son niveau d'énergie fondamental. Lorsqu'un atome est porté dans un niveau excité, il n'y reste pas longtemps. Il revient spontanément à son niveau fondamental en émettant un photon dont la longueur d'onde correspond à la variation d'énergie relative à cette transition.
+</p>
+<p>
+  On peut se demander pourquoi, dans le cas où l'atome est excité par absorption d'un photon et où il se désexcite en émettant un photon identique à celui qui a été absorbé, le bilan global pour l'observateur se solde par une raie d'absorption, alors qu'il semble qu'il devrait être nul. Ceci tient au fait que <mark>le photon absorbé provient d'une direction donnée</mark>, qui est celle du faisceau lumineux envoyé sur le milieu gazeux, <mark>alors que la réémission  est isotrope</mark> (elle se fait au hasard dans n'importe quelle direction). Il y a bien de temps en temps un photon qui est réémis dans la direction du faisceau, mais la plupart des photons sont réémis dans des directions différentes. Ainsi l'observateur qui regarde dans la direction du faisceau lumineux incident voit un spectre continu, parsemé de raies d'absorption.
+</p>
+
     <h3>Composition de l'atmosphère du Soleil</h3>
     <p>
       On obtient donc un spectre de ..............................................................................(Environ 20 000 raies sombres !).
