@@ -127,7 +127,14 @@ L’état final du système peut être décrit en remplaçant \(x_{max}\) par sa
 <p>
 la valeur de \(x_{max}\) dépend des quantités de matière introduites à l’état initial.	
 </p>
-<h3>Autre méthode : analyse graphique</h3>
+<h3>Autre méthode</h3>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h3>Analyse graphique</h3>
 
     \def{text tube1 =
     xrange -200,500
@@ -222,7 +229,14 @@ la valeur de \(x_{max}\) dépend des quantités de matière introduites à l’�
 </p>
 
 
-<h3>Autre méthode : analyse graphique</h3>
+<h3>Autre méthode</h3>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h3>Analyse graphique</h3>
 
     \def{text stoechiometrique =
     xrange -200,500
