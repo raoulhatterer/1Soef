@@ -172,45 +172,80 @@ où :
 
 
 <h2 class="cours">Comparaison de l’interaction gravitationnelle et l’interaction électrostatique à l’échelle atomique</h2>
-
-A l ‘échelle de l’atome et des molécules, la force d'attraction électrostatique est largement supérieure à la force d'attraction gravitationnelle (1042 fois plus grande).
-La cohésion de la matière à l'échelle atomique et moléculaire est assurée par l'interaction électrostatique.
+<p>
+  À l'échelle de l’atome et des molécules, la force d'attraction électrostatique est largement supérieure à la force d'attraction gravitationnelle (10<sup>42</sup>  fois plus grande).
+  <mark>La cohésion de la matière à l'échelle atomique et moléculaire est assurée par l'interaction électrostatique.</mark>
 Les propriétés des solides, des liquides et des gaz en découlent. 
 C’est donc cette interaction qui assure à notre échelle la cohésion des objets, etc. 
+</p>
 
 <h2 class="cours">L’interaction forte et faible à l’échelle du noyau</h2>
-Dans le noyau, la force électrostatique répulsive entre deux protons est prédominante par rapport à la force d’attraction gravitationnelle entre ces deux protons : deux protons devraient donc se repousser et au final, le noyau devrait éclater.
-Or puisque  la plupart des  noyaux sont stables, c'est qu'il existe une autre interaction attractive supérieure à l'interaction électromagnétique, et qui assure la cohésion du noyau.
-
-La cohésion du noyau est assurée par une interaction fondamentale entre les nucléons qui est appelée interaction forte.
-Au niveau d’un noyau l’interaction forte est de 100 à 1000 fois plus grande que celle de la force lectrostatique.
-C'est une action de très COURTE portée: son action ne dépasse pas les limites du noyau (10-15 m)
-
-Remarques: 
-a) La stabilité de nombreux noyaux (contenant jusqu’à 83 protons) est assurée par l’interaction forte. 
+<p>
+  Dans le noyau, la force électrostatique répulsive entre deux protons est prédominante par rapport à la force d’attraction gravitationnelle entre ces deux protons : deux protons devraient donc se repousser et au final, le noyau devrait éclater.
+  Or puisque  la plupart des  noyaux sont stables, c'est qu'il existe une autre interaction attractive supérieure à l'interaction électromagnétique, et qui assure la cohésion du noyau.
+</p>
+<p>
+  <mark>La cohésion du noyau est assurée par une interaction fondamentale entre les nucléons qui est appelée interaction forte.</mark></p>
+<p>
+  Au niveau d’un noyau l’interaction forte est de 100 à 1000 fois plus grande que celle de la force électrostatique.
+  C'est une action de très COURTE portée: son action ne dépasse pas les limites du noyau (10<sup>-15</sup>  m)
+</p>
+<p>
+  Remarques :
+  <ol>
+    <li>La stabilité de nombreux noyaux (contenant jusqu’à 83 protons) est assurée par l’interaction forte. 
 Lorsque le nombre de protons devient trop important (et donc la charge)  dans le noyau, l'interaction électromagnétique (répulsive entre les protons) finit par l'emporter. 
 Les noyaux sont alors instables, ils se désintègrent : c’est l’une des causes au phénomène de radioactivité.		
-b) L’interaction faible :
-L’interaction faible de très courte portée (inférieure à 10-15m) est responsable de certaines désintégrations nucléaires (émission de particules par des noyaux : radioactivité béta). Elle est beaucoup moins intense que l’interaction forte (un million de fois plus faible que celle de l’interaction forte entre deux nucléons).
+</li>
+    <li>L’interaction faible :
+      L’interaction faible de très courte portée (de l'ordre du diamètre d'un nucléon) est responsable de certaines désintégrations nucléaires (émission de particules par des noyaux : radioactivité béta). Elle est beaucoup moins intense que l’interaction forte (un million de fois plus faible que celle de l’interaction forte entre deux nucléons) .
+</li>
+  </ol>
+</p>
 </div>
 
 <h1 class="cours">Bilan :  la cohésion de la matière à différentes échelles !</h1>
 <div class="cours">
-A l'échelle de l'Univers, seules les interactions de portée infinie peuvent intervenir (gravitationnelle et électromagnétique). Or la matière est globalement électriquement neutre à grande échelle. Seule l'interaction gravitationnelle (toujours attractive) assure la cohésion de la matière à l'échelle de l'Univers.
-
-La cohésion de la matière est assurée par:
-
-	  Domaine d'action	A l’échelle	de portée
-L’interaction gravitationnelle	Entre corps massiques	Univers
-Planètes, étoiles	Infinie
-L’interaction électrique	Entre corps chargés	Humaine, molécules
-atomes	Infinie
-
-L’interaction forte	Entre nucléons	Noyau de l’atome 
-	Inférieure à 10-15m
-
-Interaction faible 	Entre les nucléons	Noyau de l’atome	Inférieure à 10-15m
-
+  <p>
+    À l'échelle de l'Univers, seules les interactions de portée infinie peuvent intervenir (gravitationnelle et électromagnétique). Or la matière est globalement électriquement neutre à grande échelle. <mark>Seule l'interaction gravitationnelle (toujours attractive) assure la cohésion de la matière à l'échelle de l'Univers.</mark>
+  </p>
+  <p>
+La cohésion de la matière est assurée par :
+<center>
+  <table class="cours" >
+    <tr>
+      <td></td>
+      <th scope="col">Domaine d'action</th>
+      <th scope="col">À l’échelle</th>
+      <th scope="col">De portée</th>
+    </tr>
+    <tr>
+      <th scope="col">interaction gravitationnelle</th>
+      <td>Entre corps massiques</td>
+      <td>Univers ; Planètes ;  Étoiles</td>
+      <td>infinie</td>
+    </tr>
+    <tr>
+      <th scope="col">interaction électrostatique</th>
+      <td>Entre corps chargés</td>
+      <td>humaine ; molécules ; atomes</td>
+      <td>infinie</td>
+    </tr>
+    <tr>
+      <th scope="col">interaction forte</th>
+      <td>Entre nucléons </td>
+      <td>noyau de l’atome </td>
+      <td>inférieure à 10<sup>-15</sup>	m </td>
+    </tr>
+    <tr>
+      <th scope="col">interaction faible</th>
+      <td>Entre les nucléons</td>
+      <td>noyau de l’atome</td>      <td>Inférieure à 10<sup>-17</sup>
+	m</td>
+    </tr>
+  </table>
+</center>
+  </p>
     <img src="\filedir/book.jpg" class="icone"/>
 
     <h3>Exercices : S’autoévaluer p 125 (seul) +     Ex  8 ; 9 (seul) ; 10 ; 15 ; 21 p128/129</h3>
