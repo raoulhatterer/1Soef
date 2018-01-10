@@ -4,7 +4,7 @@
 
 
 
-\fold{C65}{Compétences attendues}{}
+\fold{CA6}{Compétences attendues}{}
 <div class="cours">
   <img src="\filedir/book.jpg" class="icone"/>
   <p>Correspond au chapitre  au chapitre 5 page 79 du livre</p>
@@ -272,9 +272,13 @@ la valeur de \(x_{max}\) dépend des quantités de matière introduites à l’�
 
 
 
-
-
-	  </div>
+ <p>    <img src="\filedir/book.jpg" class="icone"/><br/>
+   Ex9p90 : Établir l'état final d'u système <br/>
+   Ex11p91 : Analyser des graphes <br/>
+   Ex15p92 : Décomposition d'un solide par chauffage
+ </p>
+ 
+</div>
 
 <h1 class="cours">Détermination de la concentration d’une espèce chimique colorée </h1>
 <div class="cours">
