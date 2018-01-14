@@ -128,12 +128,10 @@ L’état final du système peut être décrit en remplaçant \(x_{max}\) par sa
 la valeur de \(x_{max}\) dépend des quantités de matière introduites à l’état initial.	
 </p>
 <h3>Autre méthode</h3>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<p>
+  Pour trouver \(x_{max}\) on divise la quantité de matière initiale de chacun des réactifs par son coefficient stoechiométrique. La plus petite valeur obtenue sera \(x_{max}\).
+</p>
+
 <h3>Analyse graphique</h3>
 
     \def{text tube1 =
@@ -230,12 +228,12 @@ la valeur de \(x_{max}\) dépend des quantités de matière introduites à l’�
 
 
 <h3>Autre méthode</h3>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<p>
+  Pour trouver \(x_{max}\) on divise la quantité de matière initiale de chacun des réactifs par son coefficient stoéchiométrique. Si le mélange est stoechiométrique, on obtient à chaque fois la même valeur. Il s'agit de  \(x_{max}\).
+</p>
+
+
+
 <h3>Analyse graphique</h3>
 
     \def{text stoechiometrique =
