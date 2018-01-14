@@ -1,4 +1,14 @@
 \title{Compléter des équations}
+\language{fr}
+\range{-5..5}
+\author{Raoul,HATTERER}
+\comment{source initiale : Georges,Khaznadar}
+\email{hatterer.raoul@gmail.com}
+\format{html}
+\precision{1000000}
+
+
+
 
 \comment{equation, équation équilibrée, coefficients}
 \text{donnees=
