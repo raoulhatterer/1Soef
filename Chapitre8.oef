@@ -58,6 +58,9 @@
     Le champ de pesanteur sur terre n’est pas uniforme car il n’a pas toujours la même direction ni la même intensité.
   </p>
   <h2 class="cours">Le champ de pesanteur local </h2>
+  <center>
+<img src="\filedir/glocal.png" alt="g local"/>
+  </center>
   <p class="mark">
     Localement, dans une région petite par rapport au diamètre de la Terre (de l’ordre du km), on peut considérer que le champ de pesanteur est uniforme.
   </p>
