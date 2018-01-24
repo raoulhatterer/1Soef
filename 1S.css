@@ -13,13 +13,17 @@ h1.cours:before {
 h1.cours{
     color: #2280A8; font-family: Verdana, Arial, sans-serif;
     background-image:linear-gradient(#E4EFFF, white);
-    padding: 2%;
+    padding: 1%;
     counter-reset: subsection;  /* Nous initialisons le compteur subsection */    
 }
 
 h2.cours:before{
     counter-increment: subsection;  /* Ajoute 1 au compteur subsection */
     content:  counter(subsection) ". ";  /* Affiche notre compteur */
+}
+
+h2.cours{
+    margin: 0px 0px 0px -30px;
 }
 
 .competencesattendues h1{
