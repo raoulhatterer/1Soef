@@ -49,9 +49,9 @@
   <p>
     Les caractéristiques du champ de pesanteur  sont :
     <ul>
-      <li>sa direction :  verticale</li>
-      <li>son  sens : vers le centre de la Terre</li>
-      <li>son intensité (= valeur) donnée par : \(g=\frac{P}{m}\)		  ( où : P en N ; m en kg ; g en N&middot;kg<sup>-1</sup>).</li>
+      <li><b>direction</b> :  verticale</li>
+      <li><b>sens</b> : vers le centre de la Terre</li>
+      <li><b>intensité</b> (= valeur) donnée par : \(g=\frac{P}{m}\)		  ( où : P en N ; m en kg ; g en N&middot;kg<sup>-1</sup>).</li>
     </ul>
   </p>
   <p class="mark">
@@ -70,9 +70,9 @@
   <p>
     D’un point de vue général, les caractéristiques du champ de pesanteur local sont :
     <ul>
-      <li>sa direction : verticale</li>
-      <li>son sens : vers le bas</li>
-      <li>son intensité : dépend du lieu (principalement car la distance par rapport au centre de la Terre varie suivant l'endroit où l'on se trouve). <br/>
+      <li><b>direction</b> : verticale</li>
+      <li><b>sens</b> : vers le bas</li>
+      <li><b>intensité</b> : dépend du lieu (principalement car la distance par rapport au centre de la Terre varie suivant l'endroit où l'on se trouve). <br/>
 	Exemples : 
 	<ul>
 	  <li>à La Ciotat : g = 9,81 N&middot;kg<sup>-1</sup>; </li>
@@ -93,9 +93,9 @@
   <p>
     Les caractéristiques du champ de gravitation       sont :
     <ul>
-      <li>direction :  droite qui lie le centre de l’objet au de la Terre</li>
-      <li>sens : du centre de l’objet vers le centre de la Terre</li>
-      <li>intensité   (en N&middot;kg<sup>-1</sup>) :	\(\mathcal{G} = \frac{F}{m}  =\frac{ G \times M_T}{d^2}\)  	<br/>
+      <li><b>direction</b> :  droite qui lie le centre de l’objet au de la Terre</li>
+      <li><b>sens</b> : du centre de l’objet vers le centre de la Terre</li>
+      <li><b>intensité</b>   (en N&middot;kg<sup>-1</sup>) :	\(\mathcal{G} = \frac{F}{m}  =\frac{ G \times M_T}{d^2}\)  	<br/>
 	où :
 	<ul>
 	  <li>F en N ;</li>
