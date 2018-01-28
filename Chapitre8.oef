@@ -3,11 +3,12 @@
 
 <div class="cours">
   <img src="\filedir/book.jpg" class="icone"/>
-  <p>Correspond au chapitre  au chapitre 12 page 201 du livre</p>
+  <p>Correspond  au chapitre 12 page 201 du livre</p>
 </div>
 
 <h1 class="cours">Notion de champ et définitions </h1>
 <div class="cours">
+   
   <p class="mark">
     Un champ  est associé à une propriété physique qui se manifeste en tout point de l’espace. Cette propriété est définie par une grandeur mesurable dépendant de la position du point de mesure.
   </p>
@@ -34,6 +35,8 @@
 
 <h1 class="cours">Le champ de pesanteur </h1>
 <div class="cours">
+    <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP1)</p>
   <h2 class="cours">Le champ de pesanteur sur Terre : \(\vec{g}\) </h2>
   Toute masse placée à proximité de la Terre subit une force appelée poids de l’objet et notée :\(\vec{P}\)
 
@@ -45,7 +48,8 @@
 	\(\vec{P}=m\cdot \vec{g}\)
       </span>
     </center>
-  </p>
+  </p> <br/>
+  
   <p>
     Les caractéristiques du champ de pesanteur  sont :
     <ul>
@@ -59,7 +63,7 @@
   </p>
   <h2 class="cours">Le champ de pesanteur local </h2>
   <center>
-<img src="\filedir/glocal.png" alt="g local"/>
+<img src="\filedir/glocal.png" width="480"  alt="g local"/>
   </center>
   <p class="mark">
     Localement, dans une région petite par rapport au diamètre de la Terre (de l’ordre du km), on peut considérer que le champ de pesanteur est uniforme.
@@ -136,13 +140,18 @@
   </center>
   <p>
     Au voisinage de la Terre,     leur différence de valeur étant très faible, en général on identifie localement le champ de pesanteur au champ de gravitation.
-    Cette approximation, consiste à négliger la rotation de la terre, et les attractions gravitationnelles exercées par le Soleil et la Lune. L'intensité moyenne de la pesanteur à la surface de la Terre est g = 9,8 N&middot;kg<sup>-1</sup>.
+    Cette approximation, consiste à négliger la rotation de la terre, et les attractions gravitationnelles exercées par le Soleil et la Lune.
+  </p>
+  <p>
+    L'intensité moyenne de la pesanteur à la surface de la Terre est g = 9,8 N&middot;kg<sup>-1</sup>.
     
   </p> 
 </div>
 
 <h1 class="cours">Le champ électrostatique \(\vec{E}\)</h1>
 <div class="cours">
+    <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP2)</p>
   <p>
     Une charge électrique q est sensible au champ électrostatique régnant dans une région de l’espace. <br/>
     Le champ électrostatique est un champ vectoriel, on le note \(\vec{E}\)
@@ -151,11 +160,11 @@
     La relation qui lie la charge, le champ électrostatique et la force électrostatique est : <br/> <br/>
     <center><span class="formulemathematique">
 	\(\vec{F}= q \vec{E}\)
-    </span></center> <br/>
+    </span></center> <br/> <br/>
     où : F en newtons (N) ; q en coulombs (C) ; E en volts par mètre (V&middot;m<sup>-1)</sup>.
   </p>
-  <p>
-    Les lignes de champ sont orientées depuis la charge positive vers la charge négative (potentiel décroissant).
+  <p class="mark">
+    Les lignes de champ sont orientées dans le sens des potentiels décroissants (du plus vers le moins).
   </p>
   <h3>  Exemple : le 	condensateur plan </h3>
   <center>
@@ -181,6 +190,8 @@
 
 <h1 class="cours">Le champ magnétique </h1>
 <div class="cours">
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP3)</p>
   <h2 class="cours">Le champ de magnétique \(\vec{B}\)</h2>
   <p>
     Une aiguille aimantée (boussole) est sensible au champ magnétique régnant dans une région de l’espace. <br/>
@@ -189,8 +200,13 @@
   <p>
     Un champ magnétique peut-être crée par un aimant ou par des courants électriques. C’est un champ vectoriel.
   </p>
-  Les lignes de champ sont orientées du pôle Nord vers le pôle Sud à l’extérieur de l ‘aimant. Le vecteur champ magnétique est tangent aux lignes de champ.
-  La valeur du vecteur champ magnétique est mesurée avec un teslamètre et  s’exprime en tesla (T).
+  <p>
+    <ul>
+      <li><mark>Les lignes de champ sont orientées du pôle Nord vers le pôle Sud à l’extérieur de l'aimant.</mark></li>
+      <li>Le vecteur champ magnétique \(\vec{B}\) est tangent aux lignes de champ.</li>
+      <li>La valeur du vecteur champ magnétique est mesurée avec un teslamètre et  s’exprime en tesla (T).</li>
+    </ul>
+  </p>
 
   <h3>Cas d’un aimant droit </h3>
   <center>
@@ -217,13 +233,14 @@
   Le champ magnétique terrestre est proche de celui   créé par un aimant droit placé à l’intérieur du globe. Le pôle sud de l’aimant indiquant le Nord géographique avec un léger écart appelé déclinaison.
   Les lignes de champ sont orientées du pôle Nord vers le pôle Sud de cet aimant droit.
 </p>
+    <img src="\filedir/book.jpg" class="icone"/>
 
   <h3>Exercices: </h3>
   <ul>
-    <li>Champ magnétique : n°12,16(attention, erreur fléchage dans l’énoncé !)  p213,214 </li>
     <li>Champ gravitationnel : n°18,19 p215</li>
-    <li>Champ électrostatique : n°14,24 p 214,217</li>
-    <li>Exercices à faire soi-même :  Exercice résolu, application immédiate p212 +  QCM p211</li>
+    <li>Champ électrostatique : n°14, 24 p 214,217</li>
+    <li>Champ magnétique : n°12,16 (attention, erreur fléchage dans l’énoncé !)  p213,214 </li>
+    <li>Exercices à faire soi-même :  exercice résolu, application immédiate p212 +  QCM p211</li>
   </ul>
 
 </div>

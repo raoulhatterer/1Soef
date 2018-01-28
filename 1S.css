@@ -11,7 +11,8 @@ h1.cours:before {
 }
 
 h1.cours{
-    color: #2280A8; font-family: Verdana, Arial, sans-serif;
+    color: #2280A8;
+    font-family: Verdana, Arial, sans-serif;
     background-image:linear-gradient(#E4EFFF, white);
     padding: 1%;
     counter-reset: subsection;  /* Nous initialisons le compteur subsection */    
@@ -23,6 +24,17 @@ h2.cours:before{
 }
 
 h2.cours{
+    color: #2280A8;
+    margin: 0px 0px 0px -30px;
+    counter-reset: subsubsection;  /* Nous initialisons le compteur subsection */    
+}
+
+h3.cours:before{
+    counter-increment: subsubsection;  /* Ajoute 1 au compteur subsection */
+    content:  counter(subsubsection,lower-alpha) ". ";  /* Affiche notre compteur */
+}
+
+h3.cours{
     margin: 0px 0px 0px -30px;
 }
 
