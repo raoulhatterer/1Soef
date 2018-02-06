@@ -95,6 +95,9 @@ h3.cours{
     border-radius:15px ;
 }
 
+
+
+
 .formulemathematique{
     background-color:#E4EFFF;
     border:1px solid #9FC6FF;
@@ -116,6 +119,13 @@ h3.cours{
     word-spacing:-2px;
     white-space:nowrap;
     padding:2px;
+}
+
+.mark {
+    background-color: yellow;
+    border:1px solid #9FC6FF;
+    padding:5px;
+    border-radius:3px ;
 }
 
 p.mark{
