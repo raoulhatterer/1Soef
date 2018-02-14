@@ -121,6 +121,13 @@ h3.cours{
     padding:2px;
 }
 
+ul.mark {
+    background-color: yellow;
+    border:1px solid #9FC6FF;
+    padding:5px;
+    border-radius:3px ;
+}
+
 .mark {
     background-color: yellow;
     border:1px solid #9FC6FF;
