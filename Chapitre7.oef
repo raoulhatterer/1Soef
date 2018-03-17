@@ -129,7 +129,10 @@ Dans l’Univers, la matière se présente sous des formes et des dimensions bie
 
 <h1 class="cours">Les interactions fondamentales (activité)</h1>
 <div class="cours">
-<h2 class="cours">L’interaction gravitationnelle </h2>
+  <h2 class="cours">L’interaction gravitationnelle </h2>
+  <center>
+    <img src="\filedir/interactionGravitationnelle.jpg" width="70%" alt="interaction gravitationnelle"/>
+  </center>
 <p>
   Deux corps A et B à répartition sphérique de masses m<sub>A</sub> et  m<sub>B</sub> séparés d’une distance d exercent l’un sur l’autre des <mark>actions mécaniques attractives</mark>, modélisées par des forces d’attraction gravitationnelles <mark>de portée infinie</mark>, ayant la même intensité.
 <center><span class="formulemathematique">\(F_{A/B}=F_{B/A}=G\,\frac{m_A\cdot m_B}{d^2}\)</span></center>
@@ -142,7 +145,10 @@ où :
 </ul>
 </p>
 
-<h2 class="cours">Interaction électrique-Loi de Coulomb</h2>
+<h2 class="cours" id="forceelectrostatique">Interaction électrique (loi de Coulomb)</h2>
+<center>
+  <img src="\filedir/charge-electrique-interaction.jpg" width="70%" alt="interaction électrostatique"/>
+</center>
 <p>
   <mark>Cette interaction de portée infinie agit sur tous les corps ayant une charge électrique</mark>
 </p>

@@ -18,7 +18,7 @@
     <mark>Un solide ionique est un assemblage régulier de cations + et d’anions -</mark>  qui ne conduit pas le courant électrique car les ions sont figés.
   </p>
   <p>
-    C’est <mark>la force électrostatique attractive entre les cations + et les anions - qui assure la cohésion du solide</mark> (elle est plus importante que la force répulsive entre 2 ions de même charge).
+    C’est <mark>\link{Chapitre7}{la force électrostatique}{forceelectrostatique}{} attractive entre les cations + et les anions - qui assure la cohésion du solide</mark> (elle est plus importante que la force répulsive entre 2 ions de même charge).
   </p>
   <p>
     Globalement, le solide ionique est électriquement neutre (autant de charges + que de charges -).
@@ -43,14 +43,15 @@
 <h1 class="cours">Cohésion des solides moléculaires </h1>
 <div class="cours">
   <h2 class="cours">Polarité d’une molécule </h2>
-  <center>
-    <img src="\filedir/electronegativity.jpg" width="60%" alt="«alternate text»électronégativité"/>
-  </center>
+
 
   <p>
     Pour savoir si une liaison <span class="formulechimique">A  –  B</span> est polarisée, les chimistes comparent l'électronégativité des atomes <span class="formulechimique">A</span> et <span class="formulechimique">B</span>.
   </p>
-
+  <center>
+    <img src="\filedir/electronegativites.jpg" width="90%" alt="«alternate text»électronégativité"/>
+    <img src="\filedir/electronegativity.jpg" width="60%" alt="«alternate text»électronégativité"/>    
+  </center>
   
   <p>
     <ul class="mark">
@@ -59,10 +60,6 @@
     </ul>
   </p>
 
-
-
-
-  
   <p>
     Exemples :
     <ul>
@@ -74,7 +71,14 @@
   <p class="mark">
     Une molécule est polaire si le barycentre de ses charges positives (noté δ<sup>+</sup>) est distinct du barycentre de ces charges négatives δ<sup>-</sup>. </p>
 
-  Exemples : molécule d’eau,                                                                               molécule de dioxyde de carbone
+  <h3>Exemples : </h3>
+  <ul>
+    <li>\fold{}{molécule d’eau :}{molécule d'eau :<center><img src="\filedir/momentH2O.jpg" width="400" alt="la molécule d'eau est polaire"/> <br/>	La molécule d'eau est polaire      </center>}</li>
+    <li>molécule de dioxyde de carbone :</li>
+  </ul>
+
+
+
 
 
 

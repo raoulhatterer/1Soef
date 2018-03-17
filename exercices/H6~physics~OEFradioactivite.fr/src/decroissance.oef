@@ -9,29 +9,36 @@
 \format{html}
 \precision{100}
 
-
+<!-- nombre de noyaux -->
 \integer{N01=randint(2..9)}
 \integer{N02=randint(1..20)}
 \real{N0=\N01*10^(\N02)}
+<!--  demi-vie = td*ln2 -->
 \integer{t01=randint(1..9)}
 \integer{t02=randint(1..5)}
-
 \real{td=\t01*10^(\t02)}
 \real{tmax=5*\td}
 \integer{t1=\tmax/randint(2..4)}
-
+<!-- courbe de décroissance  -->
 \text{N=\N0*e^(-x/\td)}
 \text{B=slib(graphpaper/func_milli ,,0,,\tmax max t(s),\N0 max noyaux,,,,\N)}
 \text{A=draw(300,300
 
 \B)}
 \text{graph=<img src="\A">}
-  \integer{rep1=ln(2)*\td}
-  \real{marge=5*\td/80}
-  \real{rep1min=\rep1-\marge}
-  \real{rep1max=\rep1+\marge}
-  \real{rep2=1/\td}
-  \real{rep3=\rep2*\N0}
+\real{marge=10/100}
+<!--  calcul demi-vie = td*ln2 -->
+\integer{rep1=ln(2)*\td}
+\real{rep1min=\rep1*(1-\marge)}
+\real{rep1max=\rep1*(1+\marge)}
+<!-- calcul de lambda -->
+\real{rep2=1/\td}
+\real{rep2min=\rep2*(1-\marge)}
+\real{rep2max=\rep2*(1+\marge)}
+<!-- calcul de l'activité initiale -->
+\real{rep3=\rep2*\N0}
+\real{rep3min=\rep3*(1-\marge)}
+\real{rep3max=\rep3*(1+\marge)}
 
 
 
@@ -114,6 +121,6 @@
 
 
 \answer{}{\rep1min,\rep1max}{type=range}
-\answer{}{\rep2}{type=numeric}
-\answer{}{\rep3}{type=numeric}
+\answer{}{\rep2min,\rep2max}{type=range}
+\answer{}{\rep3min,\rep3max}{type=range}
 \answer{}{Bq}{type=text}
