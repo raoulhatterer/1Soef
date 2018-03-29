@@ -1,7 +1,8 @@
 \comment{CH 12 : Transferts thermiques}
 
-Compétences attendues:
-distinguer une transformation physique d'une transformation chimique.
+
+\fold{CA12}{Compétences attendues}{}
+
 
 
 
@@ -62,11 +63,12 @@ distinguer une transformation physique d'une transformation chimique.
       <img src="\filedir/3etats.png" width="75%" alt="eau solide eau liquide vapeur d'eau"/>
     </center>
   </p>
-
-  Le changement d’état d’un corps est une <mark>transformation physique</mark> au cours de laquelle le corps passe d’un état physique à un autre. <mark>Il n’y a pas de modification de la molécule.</mark>
-
+  <p>
+    Le changement d’état d’un corps est une <mark>transformation physique</mark> au cours de laquelle le corps passe d’un état physique à un autre. <mark>Il n’y a pas de modification de la molécule.</mark>
+  </p>
+  
   <center>
-    <img src="\filedir/changementEtat.pdf" width="300" alt="courbe de changements d'états de l'eau"/>
+    <img src="\filedir/changementsEtat.jpg" width="300" alt="Courbe de changements d'états de l'eau"/>
   </center>
 
   <h2 class="cours">Interprétation microscopique </h2>
@@ -74,7 +76,7 @@ distinguer une transformation physique d'une transformation chimique.
     La <mark>température</mark> est une grandeur macroscopique qui augmente quand <mark>l’agitation thermique</mark> des particules augmente.
   </p>
   <p>
-    Quand il n’y a pas de changement d’état, si je fournis de l’énergie à un corps, sa température augmente ce qui conduit à une augmentation de l’agitation des molécules et donc à une <mark>diminution des interactions intermoléculaires</mark> (entre les molécules)
+    Quand il n’y a pas de changement d’état, si l'on fournit de l’énergie à un corps, sa température augmente ce qui conduit à une augmentation de l’agitation des molécules et donc à une <mark>diminution des interactions intermoléculaires</mark> (entre les molécules).
   </p>
   <p>
     Lors d’un changement d’état, l’énergie que je fournis sert à une <mark>rompre les interactions intermoléculaires</mark>, la température reste alors constante lors du changement d’état (énergie de changement d’état : 10 à 100 kJ&middot;mol<sup>-1</sup>) 
@@ -83,12 +85,20 @@ distinguer une transformation physique d'une transformation chimique.
   <p>
     Lorsque deux corps de température différente (isolé du milieu extérieur) sont en contact il y a transfert thermique spontané du corps le plus chaud vers le corps le plus froid. L’énergie gagnée par le corps froid est égale à l’énergie perdue par le corps chaud. C’est le <mark>principe de conservation de l’énergie.</mark>
   </p>
-  Voir exercice corrigé page 163 + QCM page 161 n°4 (à faire seul) 
+  <p>
+    <img src="\filedir/book.jpg" class="icone"/>
+    Voir exercice corrigé page 163 + QCM page 161 n°4 (à faire seul)
+  </p>
 </div>
 
-<h1 class="cours">Réaction de combustion (livre 276) </h1>
+<h1 class="cours">Réaction de combustion</h1>
+
 <div class="cours">
-  L’énergie chimique constitue un réservoir d’énergie qu’il est possible de libérer lors d’une réaction chimique. 
+ 
+  <p>
+    L’énergie chimique constitue un réservoir d’énergie qu’il est possible de libérer lors d’une réaction chimique.
+  </p>
+  
   <h2 class="cours">Equations de combustion</h2>
   <p>
     Lors de la combustion complète d’un alcane ou d’un alcool, celui-ci  réagit avec du dioxygène   <span class="formulechimique">O<sub>2</sub></span> pour former, comme seuls produits, du dioxyde de carbone <span class="formulechimique">CO<sub>2</sub></span> et de l’eau <span class="formulechimique">H<sub>2</sub>O</span>.
@@ -107,7 +117,7 @@ distinguer une transformation physique d'une transformation chimique.
   <p>
     L’énergie thermique peut alors être utilisée au sein d’un appareil de chauffage par exemple (la combustion du gaz de ville dégage de la chaleur) ou de cuisson, ou convertie en énergie mécanique (voiture) ou électrique (centrales thermiques) : voir CH 14
   </p>
-  <p>
+  <p class="mark">
     L’énergie libérée sous forme thermique lors d’une combustion est directement liée à la rupture et à la formation des liaisons covalentes.
   </p>
   <p>
@@ -123,7 +133,9 @@ distinguer une transformation physique d'une transformation chimique.
   <p>
     Le pouvoir calorifique d’un combustible (ou énergie de combustion massique) est l’énergie que peut libérer la combustion de 1kg de ce combustible : il s’exprime en J&middot;kg<sup>-1</sup>.
   </p>  
-  <h2 class="cours">Bilan sur le transfert thermique lors d’une combustion (Voir TP lampe à alcool) </h2>
+  <h2 class="cours">Bilan sur le transfert thermique lors d’une combustion</h2>
+  <img src="\filedir/TP.png" class="icone"/>
+  <p>(TP lampe à alcool)</p>
 
 
   \canvasdraw{400,400}{
@@ -160,7 +172,12 @@ distinguer une transformation physique d'une transformation chimique.
     <li>Transport : Création d'énergie mécanique</li>
   </ul>
 
+    <img src="\filedir/book.jpg" class="icone"/>
+    <h3>Exercices :</h3>
+    <ul>
+      <li>Seul : exercices corrigés page 278-279 + QCM page 277   13 et 17 p280</li>
+      <li>Exercice 9 et 12 p 280 corrigé (s’entrainer à équilibrer les équations de combustion)</li>
+    </ul>
   
-  Seul : exercices corrigés page 278-279 + QCM page 277   13 et 17 p280
-  Exercice 9 et 12 p 280 corrigé (s’entrainer à équilibrer les équations de combustion)
+  
 </div>
