@@ -53,12 +53,12 @@
     <img src="\filedir/electronegativity.jpg" width="60%" alt="«alternate text»électronégativité"/>    
   </center>
   
-  <p>
-    <ul class="mark">
+  <div class="mark">
+    <ul>
       <li>L’électronégativité est la capacité d’un atome  à attirer à lui les électrons d’une liaison covalente. Plus la valeur de l’électronégativité est grande et plus l’atome attire les électrons.</li>
       <li>Une liaison entre deux atomes A et B est polarisée si ces deux atomes ont des électronégativités différentes (écart de ~ 0,6 à 2). La liaison constitue alors un dipôle électrique ( = deux charges ponctuelles opposées, séparées par une distance d) caractérisée par son moment dipolaire \(\vec p\)  (orienté du – vers le + et de norme \(p=q\cdot d\) ).</li>
     </ul>
-  </p>
+  </div>
 
   <p>
     Exemples :

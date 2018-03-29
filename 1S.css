@@ -142,6 +142,15 @@ p.mark{
     border-radius:3px ;
 }
 
+
+div.mark{
+    background-color: yellow;
+    border:1px solid #9FC6FF;
+    padding:5px;
+    border-radius:3px ;
+}
+
+
 li.mark{
     background-color: yellow;
     padding:3px;
