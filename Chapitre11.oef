@@ -106,10 +106,12 @@
 <img src="\filedir/temperatureAlcanesAlcools.jpg" width="40%" alt="température d'ébullition alcanes alcools"/>
   </center>
   <h2 class="cours">Dans une même famille de composés organiques </h2>
-La température d’ébullition augmente avec la longueur de la chaîne carbonée. Plus la chaine est longue et plus il y a d’interactions de Van der Waals entre les molécules, et plus il faut fournir de l’énergie pour rompre ces interactions.
+  <mark>La température d’ébullition augmente avec la longueur de la chaîne carbonée.</mark>
+  Plus la chaine est longue et plus il y a d’interactions de Van der Waals entre les molécules, et plus il faut fournir de l’énergie pour rompre ces interactions.
 
   <h2 class="cours">Comparaison Alcanes/ alcools </h2>
-  La température d’ébullition des alcools est systématiquement plus élevée que celle des alcanes (à nombre de carbone identique). Les alcools possèdent un groupement <span class="formulechimique"> –  O  –  H</span> susceptible de faire des liaisons hydrogènes entre les molécules. Ces liaisons  sont plus fortes que les interactions de Van der Waals existant entre les alcanes. Il faut fournir de l’énergie pour rompre ces interactions.
+  <mark>La température d’ébullition des alcools est systématiquement plus élevée que celle des alcanes (à nombre de carbone identique).</mark>
+  Les alcools possèdent un groupement <span class="formulechimique"> –  O  –  H</span> susceptible de faire des liaisons hydrogènes entre les molécules. Ces liaisons  sont plus fortes que les interactions de Van der Waals existant entre les alcanes. Il faut fournir de l’énergie pour rompre ces interactions.
 </div>
 
 <h1 class="cours">Miscibilité des alcools avec l’eau </h1>
