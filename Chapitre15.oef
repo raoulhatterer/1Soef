@@ -22,7 +22,8 @@
 
 
   <h2 class="cours">Famille des alcènes </h2>
-
+  \def{text app=slib(chemistry/jmolshow \filedir/ethene.mol, 160,120)}
+  \app
   <h4>Exemple :</h4>
   <svg xmlns="http://www.w3.org/2000/svg"
        xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cml="http://www.xml-cml.org/schema" width="200" height="114.641" x="0" y="0" font-family="sans-serif" stroke="rgb(0,0,0)" stroke-width="1"  stroke-linecap="round">
