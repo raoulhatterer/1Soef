@@ -212,6 +212,15 @@ Avec :
       </span>
 </p>
     <h2 class="cours">Deux modèles pour décrire la lumière</h2>
+   <img src="\filedir/play.jpg" class="icone"/>
+
+    <p>
+	<a target="wims_external" href="https://youtu.be/H549FOGwfKs">Vidéo sur les deux modèles de la lumière</a>
+      </p>
+
+
+
+    
     <p>
       Pour une description complète de la lumière, deux aspects sont nécessaires :
       <ul>
@@ -245,9 +254,9 @@ Avec :
     </p>
     <p>
       <ul>
-        <li>Pour n=1, l'énergie E<sub>1</sub> est minimale et l'atome est dit dans son ......................................................, état pour lequel il possède la stabilité maximale.</li>
-        <li>Pour n>1, l'énergie est notée E<sub>2</sub>, E<sub>3</sub>,.......En et l'atome est dans un ............................................................</li>
-        <li>Lorsque n tend vers l'infini, l'énergie est maximale, choisie nulle par convention.  L'atome est alors dans son état ........................................ : il a perdu un ................................</li>
+        <li>Pour n=1, l'énergie E<sub>1</sub> est minimale et l'atome est dit dans son <mark>état fondamental</mark> , état pour lequel il possède la stabilité maximale.</li>
+        <li>Pour n>1, l'énergie est notée E<sub>2</sub>, E<sub>3</sub>,..,E<sub>n</sub> et l'atome est dans un <mark>état excité</mark>.</li>
+        <li>Lorsque n tend vers l'infini, l'énergie est maximale, choisie nulle par convention.  L'atome est alors dans son <mark>état ionisé</mark> : il a perdu un <mark>électron</mark>.</li>
       </ul>
     </p>
 
@@ -309,8 +318,8 @@ L'énergie d'un atome peut être modifiée lorsque l'atome émet ou absorbe de l
     <h2 class="cours">Spectre du soleil (voir activité)</h2>
     <p>
       <ul>
-	<li>Le Soleil peut être assimilé à une boule de gaz très chaude et sous pression qui émet un spectre ............................ qui contient toutes les radiations du visible.</li>
-	<li>L' atmosphère du Soleil est composée d'atomes gazeux « relativement » froids et à basse pression (chromosphère) qui vont .......................................certaines radiations.</li>
+	<li>Le Soleil peut être assimilé à une boule de gaz très chaude et sous pression qui émet un spectre <mark>continu</mark> qui contient toutes les radiations du visible.</li>
+	<li>L' atmosphère du Soleil est composée d'atomes gazeux « relativement » froids et à basse pression (chromosphère) qui vont  <mark>absorber</mark> certaines radiations.</li>
       </ul>
     </p>
     <h3>Pourquoi des raies d'absorption ?</h3>
@@ -323,7 +332,7 @@ L'état stable d'un atome est son niveau d'énergie fondamental. Lorsqu'un atome
 
     <h3>Composition de l'atmosphère du Soleil</h3>
     <p>
-      On obtient donc un spectre de ..............................................................................(Environ 20 000 raies sombres !).
+      On obtient donc un spectre de <mark>raies d'absorption</mark> (Environ 20 000 raies sombres !).
     </p>
     <p>
       La position des raies est caractéristique des éléments chimiques qui composent l'atmosphère du soleil.
