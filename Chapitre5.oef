@@ -37,8 +37,8 @@
 
 
   <p class="mark">
-    Si la lumière ne peut pas être décomposée par un système dispersif, la source est dite .......................................... <br/>
- Elle correspond à une seule radiation lumineuse et est caractérisée par une ...................................................... dans le vide 
+    Si la lumière ne peut pas être décomposée par un système dispersif, la source est dite <b>monochromatique</b>.<br/>
+    Elle correspond à une seule radiation lumineuse et est caractérisée par une <b>longueur d'onde dans le vide λ</b>.
   </p>
   <div class="wimscenter">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lasers.JPG/1280px-Lasers.JPG" class="cours" alt="Laser rouge (660 & 635 nm), vert (532 & 520 nm) et bleu (445 & 405 nm)" width="300"/>
@@ -50,7 +50,7 @@
   </p>
   
   <p class="mark">
-    Si la lumière peut-être décomposée par un système dispersif, la source est dite ................................................. <br/>
+    Si la lumière peut-être décomposée par un système dispersif, la source est dite <b>polychromatique</b><br/>
 Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques de longueurs d'onde différentes)
   </p>
 
@@ -77,8 +77,8 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
   <p >
     Chaque radiation lumineuse est caractérisée par :
     <ul>
-      <li class="mark">Sa ...................................................................... \(\displaystyle\lambda\) (lambda) dans le vide. Unités : ..................................</li>
-      <li class="mark">Sa fréquence notée \(\displaystyle\nu\) ( nu)  qui s'exprime en ..................   (ou s<sup>-1 </sup>)</li>
+      <li class="mark">Sa <b>longueur d'onde dans la vide</b>\(\displaystyle\lambda\) (lambda) dans le vide. Unités :  <b>mètre</b>. </li>
+      <li class="mark">Sa fréquence notée \(\displaystyle\nu\) ( nu)  qui s'exprime en <b>hertz</b>  (Hz ou s<sup>-1 </sup>)</li>
     </ul>
   </p>
 
@@ -98,7 +98,7 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
       <span class="formulemathematique">	\(\lambda= \frac{c}{ \nu}\)  </span>
     </center>
 
-   \(\displaystyle \lambda\)  en m ;   \(\displaystyle \nu\): en hertz (Hz ou s <sup>-1 </sup> ) et   c = 3,0&times;10<sup>8</sup>m.s<sup>-1 </sup>
+   λ  en m ;   ν  en hertz (Hz ou s <sup>-1 </sup> ) et   c = 3,0&times;10<sup>8</sup>m&middot;s<sup>-1 </sup>
 </p>
   
   </div>
@@ -113,7 +113,7 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
     Tout corps chaud émet un rayonnement électromagnétique dans le visible lorsqu'il est maintenu à une température suffisamment élevée : c'est le phénomène <mark>d'incandescence</mark>.
   </p>
 <p>
-<a target="wims_external" href="http://media4.obspm.fr/public/FSU/temperature/rayonnement/corps-noir/spectre-corps-noir/SIMULER.html">Simulateur de l’Observatoire de Paris</a>
+<a target="wims_external" href="http://media4.obspm.fr/public/FSU/temperature/rayonnement/corps-noir/spectre-corps-noir/SIMULER.html">Lancer le Simulateur de l’Observatoire de Paris</a>
     </p>
 
   <center>
@@ -130,7 +130,7 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
       Connaissant cette longueur d'onde, on peut déterminer leur température et inversement grâce à la loi de Wien :
     </p>
     <div class="definition">
-      \fold{}{Loi de Wien}{
+      \fold{}{Montrer la Loi de Wien}{
       <p >
 	Selon <mark>la loi de Wien</mark>, la longueur d'onde \(\lambda_{max}\)  à laquelle un corps chaud émet un maximum d'intensité lumineuse est inversement proportionnelle à sa température T : 
       </p>
@@ -142,7 +142,7 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
       </p>
       <br/>
     <p>
-    Lorsque \(\lambda_{max}\)  s'exprime en mètres et T en kelvin, la constante vaut 2,898&times;10 <sup>-3 </sup> m.K.
+    Lorsque \(\lambda_{max}\)  s'exprime en mètres et T en kelvin, la constante vaut 2,898&times;10 <sup>-3 </sup> m&middot;K.
     </p>
     }
     </div>
@@ -159,13 +159,13 @@ Elle correspond à plusieurs radiations (ensemble de lumières monochromatiques 
 Tous les processus d'émission de lumière autres que l'incandescence sont qualifiés de luminescence.
     </p>
     <p>
-Ex :lampes à décharge, lampes fluorescentes, DEL, laser
+Exemples : lampes à décharge, lampes fluorescentes, DEL, laser
     </p>
     <p>
       Le profil spectral d'une lampe fluorescente présente des raies colorées, avec un fond continu noir.
     </p>
     <p>
-On parle de spectre de ...................  ....................................... (Spectre discontinu). 
+      On parle de spectre de <mark>raies d'émission</mark> (spectre discontinu). 
 </p>
 
 
@@ -249,13 +249,22 @@ Avec :
     <p class="definition">
       L'énergie d'un atome ne peut pas prendre n'importe quelle valeur. Ces valeurs particulières sont appelées <mark>niveaux d'énergie</mark>.  L'énergie de l'atome est dite quantifiée.
     </p>
+
+   <img src="\filedir/play.jpg" class="icone"/>
+
+    <p>
+	<a target="wims_external" href="https://youtu.be/hRy61RlbYOo">Vidéo sur le diagramme de niveaux d'énergie (voir les 6 premières minutes de la vidéo car le reste est de niveau TS)</a>
+      </p>
+
+
+    
     <p>
       <mark>Un diagramme de niveaux d'énergie</mark>, fait apparaître ces niveaux d'énergie quantifiés (discontinus) pour un atome donné, numérotés de 1 à n.
     </p>
     <p>
       <ul>
-        <li>Pour n=1, l'énergie E<sub>1</sub> est minimale et l'atome est dit dans son <mark>état fondamental</mark> , état pour lequel il possède la stabilité maximale.</li>
-        <li>Pour n>1, l'énergie est notée E<sub>2</sub>, E<sub>3</sub>,..,E<sub>n</sub> et l'atome est dans un <mark>état excité</mark>.</li>
+        <li>Pour n=1, l'énergie E<sub>1</sub> est minimale et l'atome est dit dans son <mark>état fondamental</mark> , état pour lequel il possède la stabilité maximale. Remarque : parfois ce niveau d'énergie est noté E<sub>0</sub> plutôt que E<sub>1</sub> .</li>
+        <li>Pour n>1, l'énergie est notée (E<sub>1</sub>,) E<sub>2</sub>, E<sub>3</sub>,..,E<sub>n</sub> et l'atome est dans un <mark>état excité</mark>.</li>
         <li>Lorsque n tend vers l'infini, l'énergie est maximale, choisie nulle par convention.  L'atome est alors dans son <mark>état ionisé</mark> : il a perdu un <mark>électron</mark>.</li>
       </ul>
     </p>
@@ -270,7 +279,7 @@ Avec :
     Avec :
     <ul>
       <li>n entier positif</li>
-      <li>E<sub>0</sub> = -13,6 eV </li>
+      <li>E<sub>0</sub> = -13,6 eV (niveau minimal d'énergie de l'atome) </li>
     </ul>
 </p>
     <center>
