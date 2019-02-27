@@ -156,13 +156,13 @@
   <h4>Exemple : déterminer l'équation de désintégration du fluor-18</h4>
   <p>
     <ul>
-      <li>La désintégration du fluor-18 produit un noyau fils et un positon :  	\({}_{\phantom{1}9}^{18}\mathrm{C} \rightarrow {}_{Z}^{A}\mathrm{X} + {}_{1}^{0}\mathrm{e}\)      </li>
+      <li>La désintégration du fluor-18 produit un noyau fils et un positon :  	\({}_{\phantom{1}9}^{18}\mathrm{F} \rightarrow {}_{Z}^{A}\mathrm{X} + {}_{1}^{0}\mathrm{e}\)      </li>
       <li>Conservation de la masse : 18 = A + 0 donc A = 18</li>
       <li>Conservation de la charge : 9 = Z + 1 donc Z = 8</li>
       <li>Lecture du tableau périodique pour déterminer l'élément : Z = 8 donc X   = O (l'oxygène)</li>
       <li>Symbole du noyau fils : \({}_{\phantom{1}8}^{18}\mathrm{O}\)</li>
       <li>Équation de la désintégration :
-	<span class="formulemathematique">\({}_{\phantom{1}9}^{18}\mathrm{C} \rightarrow {}_{\phantom{1}8}^{18}\mathrm{O} + {}_{1}^{0}\mathrm{e}\) </span>        (lors de la désintégration un proton a été transformé en neutron)    </li>
+	<span class="formulemathematique">\({}_{\phantom{1}9}^{18}\mathrm{F} \rightarrow {}_{\phantom{1}8}^{18}\mathrm{O} + {}_{1}^{0}\mathrm{e}\) </span>        (lors de la désintégration un proton a été transformé en neutron)    </li>
 
     </ul>
   </p>

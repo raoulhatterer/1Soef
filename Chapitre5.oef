@@ -351,8 +351,10 @@ L'état stable d'un atome est son niveau d'énergie fondamental. Lorsqu'un atome
       <center>
 	<img src="\filedir/profilsoleil.jpg" width="600" alt="profil spectral soleil"/>
       </center>
-    Profil spectral livre p 51 : \(\displaystyle \lambda_{max}=480nm\).  
-    Loi de Wien : la température de surface du Soleil est voisine de 5800°C
+
+      Profil spectral livre p 51 : \(\displaystyle \lambda_{max}=480nm\).
+      
+      Loi de Wien : la température de surface du Soleil est voisine de 5800°C
     </p>
   <img src="\filedir/book.jpg" class="icone"/>
 
