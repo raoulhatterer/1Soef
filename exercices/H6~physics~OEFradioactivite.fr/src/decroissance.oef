@@ -60,6 +60,10 @@
     color : black  ;margin: 0 10% 0 10%; padding : 1% 1% 1% 1%;}
     h1.solution{ background-color: #C5E0A2;
     color: green; margin: 5% 0 1% -5pt; padding : 1%;}
+    .formule{
+    border:2px solid black;
+    padding:3px;
+    }
   </style>
   }
 
@@ -75,8 +79,16 @@
     <p>
       Constante radioactive :
       <ul>
-	<li>Si l'on multiplie la constante radioactive &lambda;  par la demi-vie, le résultat est toujours égal à ln(2).</li>
-	<li>À un intant <i>t</i>, si l'on multiplie la constante radioactive &lambda;  par le nombre de noyaux radioactifs présents, on obtient l'activité radioactive.</li>	
+	<li>Si l'on multiplie la constante radioactive &lambda;  par la demi-vie T<sub>1/2</sub>, le résultat est toujours égal à au logarithme népérien de 2.</li>
+	<br/>
+	<center>
+	  <span class="formule">&lambda; &middot; T<sub>1/2</sub> = ln(2)</span>
+	</center>
+	<br/>
+	<li>À un intant <i>t</i>, si l'on multiplie la constante radioactive &lambda;  par le nombre N de noyaux radioactifs présents, on obtient l'activité radioactive A.</li>
+	<center>
+	  <span class="formule">&lambda; &middot; N(t) = A(t)</span>
+	</center>
       </ul>
     </p>
   </div>
@@ -86,7 +98,7 @@
 
   <div style="position:relative; top:10px; left:150px; z-index:1; ">
     \graph</div>
-  <div style="position:absolute;top:400px; left:180px; z-index:2;">
+  <div style="position:absolute;top:550px; left:180px; z-index:2;">
     <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="580" height="480" id="\imagedir/tangentes" align="middle">
       <param name="allowScriptAccess" value="sameDomain" />
       <param name="movie" value="\imagedir/reticule.swf" />

@@ -94,7 +94,7 @@
 <h1 class="cours">Réaction de combustion</h1>
 
 <div class="cours">
- 
+  
   <p>
     L’énergie chimique constitue un réservoir d’énergie qu’il est possible de libérer lors d’une réaction chimique.
   </p>
@@ -130,8 +130,9 @@
       <li> lors des réactions chimiques, comme la combustion, il s’agit de liaisons covalentes, beaucoup plus fortes.</li>
     </ul>
   </div>
-  <p>
-    Le pouvoir calorifique d’un combustible (ou énergie de combustion massique) est l’énergie que peut libérer la combustion de 1kg de ce combustible : il s’exprime en J&middot;kg<sup>-1</sup>.
+  <h3>Pouvoir calorifique</h3>
+  <p class="mark">
+    Le pouvoir calorifique d’un combustible (ou énergie de combustion massique) est l’énergie que peut libérer la combustion de 1kg de ce combustible. Il s’exprime en J&middot;kg<sup>-1</sup>.
   </p>  
   <h2 class="cours">Bilan sur le transfert thermique lors d’une combustion</h2>
   <img src="\filedir/TP.png" class="icone"/>
@@ -172,12 +173,12 @@
     <li>Transport : Création d'énergie mécanique</li>
   </ul>
 
-    <img src="\filedir/book.jpg" class="icone"/>
-    <h3>Exercices :</h3>
-    <ul>
-      <li>Seul : exercices corrigés page 278-279 + QCM page 277   13 et 17 p280</li>
-      <li>Exercice 9 et 12 p 280 corrigé (s’entrainer à équilibrer les équations de combustion)</li>
-    </ul>
+  <img src="\filedir/book.jpg" class="icone"/>
+  <h3>Exercices :</h3>
+  <ul>
+    <li>Seul : exercices corrigés page 278-279 + QCM page 277   13 et 17 p280</li>
+    <li>Exercice 9 et 12 p 280 corrigé (s’entrainer à équilibrer les équations de combustion)</li>
+  </ul>
   
   
 </div>
